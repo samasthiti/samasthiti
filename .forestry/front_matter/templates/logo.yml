@@ -1,0 +1,16 @@
+---
+label: Logo
+hide_body: true
+fields:
+- name: upload
+  type: file
+  config:
+    maxSize: 64
+  label: Upload logo
+- name: alternative_text
+  type: text
+  config:
+    required: false
+  label: Alternative Text
+pages:
+- _data/logo.yml

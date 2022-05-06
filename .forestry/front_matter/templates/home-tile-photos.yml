@@ -1,0 +1,34 @@
+---
+label: Tile Photos - Home
+hide_body: false
+fields:
+- type: file
+  name: img
+  label: Upload a tile photo
+- type: text
+  name: imgTitle
+  label: Title to be displayed when image is hovered
+  default: ''
+- type: select
+  name: imgSize
+  label: Choose image size
+  default: small
+  config:
+    source:
+      type: custom
+    options:
+    - small
+    - medium
+    - large
+- type: text
+  name: tile_url
+  label: add url to tile image
+  default: ''
+pages:
+- _homePagePhotos/2 tile.md
+- _homePagePhotos/2.md
+- _homePagePhotos/3 tile.md
+- _homePagePhotos/4.md
+- _homePagePhotos/5th big one.md
+- _homePagePhotos/b.md
+- _homePagePhotos/s.md

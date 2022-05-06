@@ -1,0 +1,22 @@
+<!--Bread Crumb-->
+<div class="container-fluid breadcrumb-container">
+	<!-- prettier-ignore -->
+	<div class="content container {% if include.class %}{{ include.class }}{% endif %}">
+		{% assign parts = page.url | split: "/" %}
+			<ul class="breadcrumb text-center bg-transparent flex-nowrap text-truncate" style="text-decoration: none;">
+				<li class="breadcrumb-item font-weight-light"><a href="/" style="color: white;">Home</a>&nbsp;</li>
+				{% for part in parts offset: 1 %}
+					{% if forloop.last %}
+						<li class="breadcrumb-item font-weight-light text-truncate active" aria-current="page" style="color: white;">{{ page.title }}</li>
+					{% else %}
+						{% assign text =  part | replace:'-', ' ' | capitalize %}
+						{% assign limit = forloop.index | plus: 1 %}
+						{% capture href %}{% for part in parts limit: limit %}{{ part | append: '/' }}{% endfor %}{% endcapture %}
+						<li class="breadcrumb-item font-weight-light">
+							<a href="{{ href | absolute_url }}">{{ text }}</a>&nbsp;
+						</li>
+					{% endif %}
+				{% endfor %}
+			</ul>
+    </div>
+</div>

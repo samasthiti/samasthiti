@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+	{% include head.html %}
+
+	<body>
+		{% include nav.html %}
+
+		<!--Hero Image-->
+		<div
+			class="banner-image"
+			style="background-image: url('{{page.banner_image | absolute_url}}');
+				background-size: cover;
+				background-repeat:no-repeat;
+				background-position: center;"
+		>
+			{% include breadcrumb.html %}
+		</div>
+		<div class="container">
+			<div class="row justify-content-center my-3">
+				<div class="col">
+					<h1 class="banner-title my-5">{{page.heading}}</h1>
+					{{content}}
+				</div>
+			</div>
+		</div>
+
+		<div class="container-fluid">
+			<!--FIRST ROW OF THE GRID-->
+			<div class="row justify-content-evenly">
+				<div class="col">
+					<div class="row d-flex justify-content-evenly">
+						{% for service in site.services %}
+						<div class="col-12 col-md-6 long-card item p-1">
+							<a href="{{ service.url | absolute_url }}">
+								<div
+									class="box"
+									style="
+										background-image: url('{{ service.banner_image | absolute_url}}')"
+								>
+									<div class="cover">
+										<h1 class="name pt-2 pl-4">{{service.heading}}</h1>
+									</div>
+								</div>
+							</a>
+						</div>
+						{% endfor %}
+					</div>
+				</div>
+			</div>
+		</div>
+
+		{% include footer.html %}
+	</body>
+</html>

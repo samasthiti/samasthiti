@@ -1,0 +1,50 @@
+<!--NAVBAR-->
+<nav class="navbar fixed-top navbar-dark p-1 pr-4" style="background-color: #000">
+	<div class="container-fluid">
+		<a class="navbar-brand" href="/"
+			><img
+				class="logo"
+				src="{{ site.data.logo.upload | absolute_url}}"
+				alt="{{ site.data.logo.alternative_text }}"
+			/>
+		</a>
+
+		<div class="hamburger mr-auto">
+			<div class="line1"></div>
+			<div class="line2"></div>
+			<div class="line3"></div>
+			<span class="text-white menu-text">MENU</span>
+		</div>
+
+		<div class="row justify-content-end">
+			<div class="col text-right px-0">
+				<a href="https://www.instagram.com/samasthiticonstructionspvtltd/">
+					<i class="bi bi-instagram nav-icon mr-3"></i
+				></a>
+				<a href="https://www.facebook.com/samasthiticonstructions/"
+					><i class="bi bi-facebook nav-icon mr-3"></i
+				></a>
+				<a href="https://twitter.com/SamasthitiC?s=08"
+					><i class="bi bi-twitter nav-icon mr-3"></i
+				></a>
+				<a href="https://www.linkedin.com/in/samasthiti-constructions-8265a3189">
+					<i class="bi bi-linkedin nav-icon"></i
+				></a>
+			</div>
+		</div>
+	</div>
+</nav>
+
+<ul class="sidebar">
+	{% for item in site.menus.header %}
+	<li class="nav-item menu-item-{{ loop.index }}">
+		<a
+			class="nav-link"
+			href="{{ item.url | absolute_url }}"
+			aria-current="page"
+			title="Go to {{ item.title }}"
+			>{{ item.title | upcase}}</a
+		>
+	</li>
+	{% endfor %}
+</ul>

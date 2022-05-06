@@ -1,0 +1,71 @@
+---
+label: Project/Service
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: Tab title
+- type: text
+  name: description
+  label: description of the page (for meta tag <meta name="description".../>)
+- type: text
+  name: keywords
+  label: keywords of the page (for meta tag <meta name="keywords".../>)
+- type: text
+  name: pagetopic
+  label: topic of the page (for meta tag <meta name="topic".../>)
+- type: text
+  name: author
+  label: author of the page (for meta tag <meta name="author".../>)
+- type: text
+  name: robots
+  label: robots of the page (for meta tag <meta name="robots".../>)
+- type: text
+  name: heading
+  label: Heading
+- type: number
+  name: serial_number
+  label: Serial Number for Ordering
+- type: file
+  name: banner_image
+  label: Banner image
+- name: tilephotos
+  type: image_gallery
+  config: {}
+  label: Tile Photos
+pages:
+- _projects/22x50-east-facing-bungalow.md
+- _projects/25x50-south-east-facing-bungalow-samasthiti-constructions-architects-construction-companies-in-indore-architects-in-indore.md
+- _projects/25x50-west-facing-bungalow.md
+- _projects/30x25-east-facing-bungalow.md
+- _projects/30x40-west-facing-bungalow.md
+- _projects/30x50-east-facing-house-design.md
+- _projects/30x50-hostel-construction-project.md
+- _projects/30x60-house-design.md
+- _projects/32x65-house-design.md
+- _projects/40x40-west-facing-bungalow.md
+- _projects/40x80-east-facing-bungalow-design.md
+- _projects/49x90-west-facing-bungalow.md
+- _projects/east-facing-villa.md
+- _projects/indore-bombay-hospital.md
+- _projects/indore-bypass-pumarth-bliss.md
+- _projects/indore-vijay-nagar.md
+- _projects/jain-sthanak.md
+- _projects/north-east-corner-bungalow.md
+- _projects/project-19.md
+- _projects/project-21.md
+- _projects/project-22.md
+- _projects/project-24.md
+- _projects/project-26.md
+- _projects/project-27.md
+- _projects/project-30.md
+- _projects/project-31.md
+- _projects/sourabh-datta-ji.md
+- _services/architectural-plans-3d-and-2d-elevation-drawings.md
+- _services/civil-construction-solutions.md
+- _services/engineers-consultancy.md
+- _services/interior-designing-drawings.md
+- _services/pre-engineered-buildings.md
+- _services/project-management-services.md
+- _services/turnkey-solutions-samasthiti-constructions.md
+- _services/vaastu-plans-for-home-samathiti-constructions.md

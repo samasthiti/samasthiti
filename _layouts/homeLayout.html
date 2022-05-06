@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+	{% include head.html %}
+	<body>
+		{% include nav.html %}
+
+		<div
+			class="banner-video"
+			style="background-position: center; background-repeat: no-repeat; background-size: cover"
+		>
+			<video autoplay muted loop>
+				<source src="{{ page.banner_video | absolute_url}}" type="video/mp4" />
+			</video>
+			<svg viewBox="0 0 85 85" class="arrows mobile-hidden">
+				<path class="a1" d="M0 0 L30 32 L60 0"></path>
+				<path class="a2" d="M0 20 L30 52 L60 20"></path>
+				<path class="a3" d="M0 40 L30 72 L60 40"></path>
+			</svg>
+		</div>
+
+		<!--Banner-->
+		<div class="container home-container">
+			<div class="row justify-content-center my-5">
+				<div class="col">
+					<h1 class="banner-title mb-5">{{page.heading}}</h1>
+					{{ content }}
+				</div>
+			</div>
+		</div>
+
+		<div class="container-fluid">
+			<!--FIRST ROW OF THE GRID-->
+			<div class="row justify-content-evenly">
+				<div class="col-lg-6">
+					<div class="row d-flex justify-content-evenly">
+						{% for imageInfo in site.homePagePhotos %} {% if imageInfo.imgSize == "small" %}
+						<div class="col-6 item p-1">
+							<a href="{{imageInfo.tile_url}}" style="text-decoration: none">
+								<div class="box" style="background-image:url('{{imageInfo.img | absolute_url }}');">
+									<div class="{%if imageInfo.img != nil%} cover {%else %} no-img {% endif %}">
+										<h1 class="banner-title m-2">{{ imageInfo.imgTitle }}</h1>
+									</div>
+								</div></a
+							>
+						</div>
+						{% endif %} {% endfor %}
+					</div>
+				</div>
+				{% for imageInfo in site.homePagePhotos %} {% if imageInfo.imgSize == "large" %}
+				<div class="col-lg-6 long-card item p-1">
+					<a href="{{imageInfo.tile_url}}" style="text-decoration: none">
+						<div class="box" style="background-image: url('{{imageInfo.img | absolute_url }}');">
+							<div class="{%if imageInfo.img != nil%} cover {%else %} no-img {% endif %}">
+								<h1 class="banner-title m-2">{{ imageInfo.imgTitle }}</h1>
+							</div>
+						</div></a
+					>
+				</div>
+				{% endif %} {% endfor %} {% for imageInfo in site.homePagePhotos %} {% if imageInfo.imgSize
+				== "medium" %}
+				<div class="col-lg-6 medium-card item p-1">
+					<a href="{{imageInfo.tile_url}} " style="text-decoration: none">
+						<div class="box" style="background-image: url('{{ imageInfo.img | absolute_url }}');">
+							<div class="{%if imageInfo.img != nil%} cover {%else %} no-img {% endif %}">
+								<h1 class="banner-title m-2">{{ imageInfo.imgTitle }}</h1>
+							</div>
+						</div></a
+					>
+				</div>
+				{% endif %} {% endfor %}
+			</div>
+		</div>
+
+		{% include footer.html %}
+		
+		<script type="application/ld+json">
+			{
+				"@context": "https://schema.org",
+				"@type": "HomeAndConstructionBusiness",
+				"name": "Samasthiti Constructions Pvt. Ltd.",
+				"image": "",
+				"@id": "",
+				"url": "https://www.samasthiticonstructions.com/",
+				"telephone": "9111088801",
+				"address": {
+					"@type": "PostalAddress",
+					"streetAddress": "A-5 near new hotel uday palace, Vijay Nagar,",
+					"addressLocality": "Indore",
+					"postalCode": "452011",
+					"addressCountry": "IN"
+				},
+				"geo": {
+					"@type": "GeoCoordinates",
+					"latitude": 22.7519547,
+					"longitude": 75.8927661,
+				},
+				"openingHoursSpecification": {
+					"@type": "OpeningHoursSpecification",
+					"dayOfWeek": [
+						"Monday",
+						"Tuesday",
+						"Wednesday",
+						"Thursday",
+						"Friday",
+						"Saturday",
+						"Sunday"
+					],
+					"opens": "00:00",
+					"closes": "23:59"
+				},
+				"sameAs": [
+					"https://www.facebook.com/samasthiticonstructions/",
+					"https://twitter.com/SamasthitiC/",
+					"https://www.youtube.com/channel/UCUcZxmNoIy71z8hiaeAaatw",
+					"https://www.instagram.com/samasthiticonstructionspvtltd/",
+					"https://www.linkedin.com/in/samasthiti-constructions-8265a3189/",
+					"https://www.samasthiticonstructions.com/",
+				]
+			}
+		</script>
+	</body>
+</html>

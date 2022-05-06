@@ -1,0 +1,62 @@
+---
+new_page_extension: md
+auto_deploy: false
+admin_path: "/admin/"
+webhook_url: 
+sections:
+- type: document
+  path: _data/logo.yml
+  label: Logo
+- type: document
+  path: index.md
+  label: Home
+- type: directory
+  path: _homePagePhotos
+  label: Home - Tile Photos
+  create: all
+  match: "**/*"
+- type: document
+  path: about.md
+  label: About
+- type: document
+  path: projects.md
+  label: Projects List
+- type: document
+  path: services.md
+  label: Services List
+- type: document
+  path: blogList.md
+  label: Blog List
+- type: directory
+  path: _projects
+  label: Projects
+  create: all
+  match: "**/*"
+- type: directory
+  path: _services
+  label: Services
+  create: all
+  match: "**/*"
+- type: document
+  path: contact.md
+  label: Contact
+- type: directory
+  path: _blogs
+  label: Blogs
+  create: all
+  match: "**/*"
+upload_dir: uploads
+public_path: https://samasthiticonstructions.s3.ap-south-1.amazonaws.com/uploads
+front_matter_path: https://samasthiticonstructions.s3.ap-south-1.amazonaws.com/uploads
+use_front_matter_path: true
+file_template: ":filename:"
+build:
+  preview_env:
+  - JEKYLL_ENV=staging
+  preview_output_directory: _site
+  install_dependencies_command: bundle install --path vendor/bundle
+  preview_docker_image: forestryio/ruby:2.6
+  mount_path: "/srv"
+  working_dir: "/srv"
+  instant_preview_command: bundle exec jekyll serve --drafts --unpublished --future
+    -d _site

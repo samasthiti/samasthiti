@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+	{% include head.html %}
+	<body>
+		{% include nav.html %}
+
+		<div
+			class="banner-image"
+			style="background:#000;background-image: url('{{ page.banner_image | absolute_url}}'); height: 600px; background-size: cover; background-repeat:no-repeat; background-position: center;"
+		>
+			{% include breadcrumb.html %}
+		</div>
+
+		<!--Banner-->
+		<div class="container">
+			<div class="row justify-content-center my-5">
+				<div class="col">
+					<h1 class="banner-title mb-5">{{page.heading}}</h1>
+					{{content}}
+				</div>
+			</div>
+		</div>
+
+		{% if page.tilephotos %}
+		<div class="container-fluid">
+			<!--FIRST ROW OF THE GRID-->
+			<div class="row justify-content-evenly">
+				<div class="col">
+					<!-- prettier-ignore -->
+					<div class="row d-flex justify-content-evenly">
+					{% for image in page.tilephotos %}
+					<a href="{{ image | absolute_url }}" target="__blank" class="col-6 col-md-3 item p-1">
+						<div class="box" style= "background-image:url('{{ image | absolute_url }}');">
+						</div>
+					</a>
+					{% endfor %}
+				</div>
+				</div>
+			</div>
+		</div>
+		{% endif %}
+
+		<!-- prettier-ignore -->
+		{% include footer.html %}
+	</body>
+</html>

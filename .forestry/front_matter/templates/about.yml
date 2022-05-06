@@ -1,0 +1,23 @@
+---
+label: About
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: Tab Title
+- type: text
+  name: description
+  label: description of the page
+- type: text
+  name: heading
+  label: Heading
+- type: file
+  name: banner_image
+  label: Banner Image
+- type: text
+  name: layout
+  label: layout
+  hidden: true
+  default: aboutLayout
+pages:
+- about.md

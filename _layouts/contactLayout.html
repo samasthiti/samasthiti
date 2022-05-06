@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+	{% include head.html %}
+	<body>
+		{% include nav.html %}
+
+		<div
+			class="banner-image"
+			style="background:#000; background-image: url('{{page.banner_image | absolute_url}}');background-size: cover; background-repeat:no-repeat; background-position: center;"
+		>
+			{% include breadcrumb.html %}
+		</div>
+		<!--Banner-->
+		<div class="container mt-5">
+			<div class="row">
+				<div
+					class="card col-sm-4 mr-4 rounded border-white"
+					style="box-shadow: 0 0 26px 0 #ececec; font: menu"
+				>
+					<div class="card-body">
+						<h5 class="card-title">Corporate Address</h5>
+						<p class="card-text">
+							A-5 near new hotel uday palace,<br />Vijay Nagar,<br />Indore,<br />Madhya Pradesh -
+							452010
+						</p>
+					</div>
+				</div>
+				<div
+					class="card col-sm-3 mr-4"
+					style="box-shadow: 0 0 26px 0 #ececec; border: none; font: menu"
+				>
+					<div class="card-body">
+						<h5 class="card-title">Call Us</h5>
+						<p class="card-text">
+							<a href="tel:+919111088801">+91 9111088801</a><br>
+							<a href="tel:+919111088802">+91 9111088802</a><br>
+							<a href="tel:+919111088803">+91 9111088803</a>
+						</p>
+					</div>
+				</div>
+				<div class="card col-sm-3" style="box-shadow: 0 0 26px 0 #ececec; border: none; font: menu">
+					<div class="card-body">
+						<h5 class="card-title">Email address:</h5>
+						<p class="card-text">
+							<a href="mailto:samasthiticonstructions@gmail.com"
+								>samasthiticonstructions@gmail.com</a
+							>
+						</p>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="container">
+			<div class="row justify-content-center my-5">
+				<div class="col">
+					<h1 class="banner-title mb-5">{{page.heading}}</h1>
+					{{content}}
+				</div>
+				<div class="col-12 contact" style="padding: 0px">
+					<div class="form-container">
+						<form name="contact us" method="post" action="" data-netlify="true">
+							<label for="form_name">Name *</label>
+							<input
+								id="form_name"
+								type="text"
+								name="name"
+								class="form-control"
+								placeholder="Name *"
+								required="required"
+								data-error="Name is required."
+							/>
+							<label for="form_lastname">Phone *</label>
+							<input
+								id="form_phone"
+								type="tel"
+								pattern="[0-9]{10}"
+								name="number"
+								class="form-control"
+								placeholder="Contact Number *"
+								required="required"
+								data-error="Phone number is required."
+							/>
+							<label for="form_email">Email *</label>
+							<input
+								id="form_email"
+								type="email"
+								name="email"
+								class="form-control"
+								placeholder="Please enter your email *"
+								required="required"
+								data-error="Valid email is required."
+							/>
+							<label for="form_message">Message *</label>
+							<textarea
+								id="form_message"
+								name="message"
+								class="form-control"
+								placeholder="Message *"
+								rows="4"
+								required
+								data-error="Please,leave us a message."
+							></textarea>
+
+							<input type="submit" name="submit1" class="btn btn-dark" value="Submit" />
+						</form>
+					</div>
+					<div class="map">
+						<iframe
+							src="{{page.map_url}}"
+							width="100%"
+							height="400"
+							frameborder="0"
+							style="border: 0"
+							allowfullscreen=""
+							aria-hidden="false"
+							tabindex="0"
+						></iframe>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		{% include footer.html %}
+	</body>
+</html>

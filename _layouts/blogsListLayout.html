@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+	{% include head.html %}
+	<body>
+		{% include nav.html %}
+
+		<!--Banner-->
+		<div class="container">
+			<div class="row justify-content-center my-5">{% include breadcrumb.html %}</div>
+			<div class="row justify-content-center my-5">
+				<div class="col">
+					<h1 class="banner-title my-2">{{page.heading}}</h1>
+					{{content}}
+				</div>
+			</div>
+		</div>
+
+		<!--Main content Grid-->
+		<div class="container-fluid">
+			<!--FIRST ROW OF THE GRID-->
+			<div class="row justify-content-evenly">
+				<div class="col">
+					<div class="row d-flex justify-content-evenly">
+						{% for blog in site.blogs %}
+						<div class="col-6 col-md-3 item p-1">
+							<a href="{{blog.url | absolute_url}}" style="text-decoration: none"
+								><div
+									class="box"
+									style="background-image:url('{{blog.banner_image | absolute_url}}');"
+								>
+									<div class="{%if blog.banner_image != ''%} cover {%else %} no-img {% endif %}">
+										<h2 class="name pt-2 pl-4 title-cards">{{blog.heading | upcase}}</h2>
+									</div>
+								</div>
+							</a>
+						</div>
+						{% endfor %}
+					</div>
+				</div>
+			</div>
+		</div>
+		{% include footer.html %}
+	</body>
+</html>

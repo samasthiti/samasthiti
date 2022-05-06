@@ -1,0 +1,50 @@
+---
+label: blog
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: Tab title
+- type: text
+  name: heading
+  label: Heading
+- type: text
+  name: subheading
+  label: Subheading
+- type: text
+  name: description
+  label: description of the page (for meta tag <meta name="description".../>)
+- type: text
+  name: keywords
+  label: keywords of the page (for meta tag <meta name="keywords".../>)
+- type: text
+  name: pagetopic
+  label: topic of the page (for meta tag <meta name="page-topic".../>)
+- type: text
+  name: author
+  label: author of the page (for meta tag <meta name="author".../>)
+- type: text
+  name: robots
+  label: robots (for meta tag <meta name="robots".../>)
+- type: number
+  name: serial_number
+  label: Serial Number for Ordering
+- type: file
+  name: banner_image
+  label: Banner image to show on list page
+- type: file
+  name: photo
+  label: photo to show on blog page
+- type: text
+  name: layout
+  label: layout
+  hidden: true
+  default: blogLayout
+pages:
+- _blogs/blog-1.md
+- _blogs/blog-12.md
+- _blogs/blog.md
+- _blogs/home-construction-ideas-with-best-house-contractors.md
+- _blogs/interior-decor-ideas-and-interior -design-tips-for-2021.md
+- _blogs/sample-blog.md
+- _blogs/vastu-shastra-tips-for-home.md

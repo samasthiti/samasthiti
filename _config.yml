@@ -1,0 +1,25 @@
+title: Samasthiti | We are makers
+short_title: Samasthiti
+permalink: "/:path/"
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "itemLayout"
+collections:
+   projects:
+    output: true
+    permalink: "/projects/:path/"   
+    sort_by: "serial_number"
+   services:
+    output: true
+    permalink: "/services/:path/"  
+    sort_by: "serial_number"
+   blogs:
+    output: true
+    permalink: "/blogList/:path/"  
+    sort_by: "serial_number" 
+   homePagePhotos:
+     output: false
+plugins:
+  - jekyll-menus
