@@ -37,5 +37,3 @@ fields:
   label: layout
   hidden: true
   default: constructionLayout
-pages:
-- constructions.md

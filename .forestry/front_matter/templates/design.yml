@@ -37,5 +37,3 @@ fields:
   label: layout
   hidden: true
   default: designLayout
-pages:
-- design.md

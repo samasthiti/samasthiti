@@ -37,5 +37,3 @@ fields:
   label: layout
   hidden: true
   default: housePlanLayout
-pages:
-- house-plan.md
