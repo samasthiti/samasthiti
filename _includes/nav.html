@@ -1,12 +1,8 @@
 <!--NAVBAR-->
 <nav class="navbar fixed-top navbar-dark p-1 pr-4" style="background-color: #000">
 	<div class="container-fluid">
-		<a class="navbar-brand" href="/"
-			><img
-				class="logo"
-				src="{{ site.data.logo.upload | absolute_url}}"
-				alt="{{ site.data.logo.alternative_text }}"
-			/>
+		<a class="navbar-brand" href="/"><img class="logo" src="{{ site.data.logo.upload | absolute_url}}"
+				alt="{{ site.data.logo.alternative_text }}" />
 		</a>
 
 		<div class="hamburger mr-auto">
@@ -19,32 +15,49 @@
 		<div class="row justify-content-end">
 			<div class="col text-right px-0">
 				<a href="https://www.instagram.com/samasthiticonstructionspvtltd/">
-					<i class="bi bi-instagram nav-icon mr-3"></i
-				></a>
-				<a href="https://www.facebook.com/samasthiticonstructions/"
-					><i class="bi bi-facebook nav-icon mr-3"></i
-				></a>
-				<a href="https://twitter.com/SamasthitiC?s=08"
-					><i class="bi bi-twitter nav-icon mr-3"></i
-				></a>
+					<i class="bi bi-instagram nav-icon mr-3"></i></a>
+				<a href="https://www.facebook.com/samasthiticonstructions/"><i
+						class="bi bi-facebook nav-icon mr-3"></i></a>
+				<a href="https://twitter.com/SamasthitiC?s=08"><i class="bi bi-twitter nav-icon mr-3"></i></a>
 				<a href="https://www.linkedin.com/in/samasthiti-constructions-8265a3189">
-					<i class="bi bi-linkedin nav-icon"></i
-				></a>
+					<i class="bi bi-linkedin nav-icon"></i></a>
 			</div>
 		</div>
 	</div>
 </nav>
 
 <ul class="sidebar">
-	{% for item in site.menus.header %}
+	{% for item in site.data.menus.toc %}
 	<li class="nav-item menu-item-{{ loop.index }}">
-		<a
-			class="nav-link"
-			href="{{ item.url | absolute_url }}"
-			aria-current="page"
-			title="Go to {{ item.title }}"
-			>{{ item.title | upcase}}</a
-		>
+		<a class="nav-link" href="{{ item.url | absolute_url }}" aria-current="page"
+			title="Go to {{ item.page }}">{{ item.page | upcase}}</a>
 	</li>
 	{% endfor %}
 </ul>
+
+<nav class="navbar navbar-expand-sm bg-dark navbar-dark d-flex justify-content-center" style="padding-top: 51px;">
+
+	<!-- Links -->
+	<ul class="navbar-nav nav justify-content-center">
+		<li class="nav-item">
+			<a class="nav-link dropdown-toggle" id="navbardrop" data-toggle="dropdown" href="/design">Design</a>
+			<div class="dropdown-menu">
+				<a class="dropdown-item" href="/house-plan">House Plan </a>
+				<a class="dropdown-item" href="/interior-design">Interior Design</a>
+				<a class="dropdown-item" href="/3d-design">3D Designs</a>
+			</div>
+		</li>
+		<li class="nav-item">
+			<a class="nav-link" href="/construction">Construction</a>
+		</li>
+		<li class="nav-item">
+			<a class="nav-link dropdown-toggle" id="navbardrop" data-toggle="dropdown" href="/real-estate">Real Esate</a>
+			<div class="dropdown-menu">
+				<a class="dropdown-item" href="/buy">Buy</a>
+				<a class="dropdown-item" href="/sell">Sell</a>
+			</div>
+		</li>
+
+
+	</ul>
+</nav>

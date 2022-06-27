@@ -6,7 +6,7 @@ subheading: ''
 description: " If you are engrossed in the question about; “how can I make my house
   interiors beautiful?” get the solution from the best home designers of SAMASHTHITI
   CONSTRUCTIONS"
-serial_number: 
+serial_number: 3
 banner_image: https://samasthiticonstructions.s3.ap-south-1.amazonaws.com/uploads/blog
   header picture.jpg
 photo: ''

@@ -12,10 +12,5 @@ keywords: Bedroom Interior Designer, Home Interior Designer, Home Front Designer
 pagetopic: Property Dealer Near Me
 author: Samasthiti Constructions Pvt. Ltd.
 robots: index, follow
-menu:
-  header:
-    title: Services
-    weight: 4
-
 ---
 Samasthiti Constructions is one of the Best Architects, Engineer, Interior designer, Civil contractor, Elevation Designer and Real Estate Companies in Indore.

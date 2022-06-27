@@ -5,7 +5,7 @@ heading: Interior Decor Ideas and Interior Design Tips for 2021
 subheading: ''
 description: In this blog, you will come across some simple tips and tricks to design
   your kitchen, living room, office space and your bedroom in the most appealing way.
-serial_number: 
+serial_number: 4
 banner_image: https://samasthiticonstructions.s3.ap-south-1.amazonaws.com/uploads/interior1.jpg
 photo: ''
 
