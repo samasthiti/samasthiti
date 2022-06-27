@@ -10,10 +10,5 @@ keywords: 'Architects and Interior Designers Near Me, Architects Near Me, Bedroo
 pagetopic: Construction Company In Indore
 author: Samasthiti Constructions Pvt. Ltd
 robots: index, follow
-menu:
-  header:
-    title: Projects
-    weight: 3
-
 ---
 Samasthiti Constructions is one of the Best Architects, Engineer, Interior designer, Civil contractor, Elevation Designer and Real Estate Companies in Indore.

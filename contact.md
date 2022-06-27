@@ -14,10 +14,5 @@ keywords: Infrastructure Company In Indore, House Front Design Indian Style, Fro
 pagetopic: Property Broker In Indore
 author: Samasthiti Constructions Pvt. Ltd.
 robots: index, follow
-menu:
-  header:
-    title: Contact
-    weight: 5
-
 ---
 Visit us at A-5 near new hotel uday palace, Vijay Nagar, Indore, Madhya Pradesh 452010 for our elite services of architectural planning and facade elevations.

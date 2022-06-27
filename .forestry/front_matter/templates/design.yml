@@ -1,0 +1,41 @@
+---
+label: Design List
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: Tab Title
+- type: text
+  name: description
+  label: description of the page (for meta tag <meta name="description".../>)
+- type: text
+  name: keywords
+  label: keywords of the page (for meta tag <meta name="keywords".../>)
+- type: text
+  name: pagetopic
+  label: topic of the page (for meta tag <meta name="topic".../>)
+- type: text
+  name: author
+  label: author of the page (for meta tag <meta name="author".../>)
+- type: text
+  name: robots
+  label: robots of the page (for meta tag <meta name="robots".../>)
+- type: text
+  name: heading
+  label: Heading
+- type: file
+  name: banner_image
+  label: Banner Image
+- type: number
+  name: serial_number
+  label: Serial Number for Ordering
+- type: file
+  name: tilephotos
+  label: photo to show on Design page
+- type: text
+  name: layout
+  label: layout
+  hidden: true
+  default: designLayout
+pages:
+- design.md

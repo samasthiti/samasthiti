@@ -11,9 +11,4 @@ keywords: Floor Plan Design, House Front Design Indian Style, Best Vastu Consult
 pagetopic: Top Construction Company In Indore
 author: Samasthiti Constructions Pvt. Ltd.
 robots: index, follow
-menu:
-  header:
-    title: Blogs
-    weight: 6
-
 ---

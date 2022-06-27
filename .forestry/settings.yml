@@ -5,6 +5,9 @@ admin_path: "/admin/"
 webhook_url: 
 sections:
 - type: document
+  path: _data/menus.yml
+  label: Menu
+- type: document
   path: _data/logo.yml
   label: Logo
 - type: document
@@ -35,6 +38,46 @@ sections:
 - type: directory
   path: _services
   label: Services
+  create: all
+  match: "**/*"
+- type: directory
+  path: _designs
+  label: Design
+  create: all
+  match: "**/*"
+- type: directory
+  path: _house-plans
+  label: House Plans
+  create: all
+  match: "**/*"
+- type: directory
+  path: _interior-designs
+  label: Interior Design
+  create: all
+  match: "**/*"
+- type: directory
+  path: _threeddesigns
+  label: 3D Design
+  create: all
+  match: "**/*"
+- type: directory
+  path: _constructions
+  label: Constructions
+  create: all
+  match: "**/*"
+- type: directory
+  path: _real-estates
+  label: Real Estates
+  create: all
+  match: "**/*"
+- type: directory
+  path: _buys
+  label: Buy
+  create: all
+  match: "**/*"
+- type: directory
+  path: _sells
+  label: Sells
   create: all
   match: "**/*"
 - type: document

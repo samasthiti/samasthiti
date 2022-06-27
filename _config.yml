@@ -6,6 +6,12 @@ defaults:
       path: ""
     values:
       layout: "itemLayout"
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "pagesLayout"
 collections:
    projects:
     output: true
@@ -21,5 +27,38 @@ collections:
     sort_by: "serial_number" 
    homePagePhotos:
      output: false
-plugins:
-  - jekyll-menus
+   pages:
+    output: true
+    permalink: "/:name"
+   designs:
+    output: true
+    permalink: "/designs/:path/"
+    sort_by: "serial_number"
+   house-plans:
+    output: true
+    permalink: "/house-plans/:path/"
+    sort_by: "serial_number"
+   interior-designs:
+    output: true
+    permalink: "/interior-designs/:path/"
+    sort_by: "serial_number"
+   threeddesigns:
+    output: true
+    permalink: "/3ddesigns/:path/"
+    sort_by: "serial_number"
+   constructions:
+    output: true
+    permalink: "/constructions/:path/"
+    sort_by: "serial_number"
+   real-estates:
+    output: true
+    permalink: "/real-estates/:path/"
+    sort_by: "serial_number"
+   buys:
+    output: true
+    permalink: "/buys/:path/"
+    sort_by: "serial_number"
+   sells:
+    output: true
+    permalink: "/sells/:path/"
+    sort_by: "serial_number"

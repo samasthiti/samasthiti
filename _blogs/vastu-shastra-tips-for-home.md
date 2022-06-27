@@ -5,7 +5,7 @@ heading: VASTU SHASTRA TIPS FOR HOME
 subheading: ''
 description: Vastu Shastra Tips for Home The Science of Vastu Shastra is Ancient as
   it dates back thousands of years.
-serial_number: 
+serial_number: 5
 banner_image: https://samasthiticonstructions.s3.ap-south-1.amazonaws.com/uploads/1
   main image.jpg
 photo: ''
