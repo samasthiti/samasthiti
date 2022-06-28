@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+	{% include head.html %}
+	<body>
+		{% include nav.html %}
+
+		<div
+			class="banner-image"
+			style="background:#000;
+			background-image: url('{{page.banner_image | absolute_url}}');
+			background-position: center; background-repeat: no-repeat; background-size:cover;"
+		>
+			{% include breadcrumb.html %}
+		</div>
+
+		<!--Banner-->
+		<div class="container">
+			<div class="row justify-content-center my-5">
+				<div class="col">
+					<h1 class="banner-title my-2">{{page.heading}}</h1>
+					{{content}}
+				</div>
+			</div>
+		</div>
+
+		<!--Main content Grid-->
+		<div class="container-fluid">
+			<!--FIRST ROW OF THE GRID-->
+			<div class="row justify-content-evenly">
+				<div class="col">
+					<div class="row d-flex justify-content-evenly">
+						<div class="col-6 col-md-3 item p-1">
+							<a href="/construction">
+								<div class="box"
+									style="background-image:url('https://samasthiticonstructions.s3.ap-south-1.amazonaws.com/uploads/ec.jpg');">
+									<div class="cover">
+										<h2 class="name pt-2 pl-4 title-cards">{{ "Below 1000 sq ft" | upcase}}</h2>
+									</div>
+								</div>
+							</a>
+						</div>
+						<div class="col-6 col-md-3 item p-1">
+							<a href="/construction">
+								<div class="box"
+									style="background-image:url('https://samasthiticonstructions.s3.ap-south-1.amazonaws.com/uploads/ec.jpg');">
+									<div class="cover">
+										<h2 class="name pt-2 pl-4 title-cards">{{ "1000 - 2000 sq ft" | upcase}}</h2>
+									</div>
+								</div>
+							</a>
+						</div>
+
+						<div class="col-6 col-md-3 item p-1">
+							<a href="/construction">
+								<div class="box"
+									style="background-image:url('https://samasthiticonstructions.s3.ap-south-1.amazonaws.com/uploads/ec.jpg');">
+									<div class="cover">
+										<h2 class="name pt-2 pl-4 title-cards">{{ "2000 - 3000 sq ft" | upcase}}</h2>
+									</div>
+								</div>
+							</a>
+						</div>
+						<div class="col-6 col-md-3 item p-1">
+							<a href="/construction">
+								<div class="box"
+									style="background-image:url('https://samasthiticonstructions.s3.ap-south-1.amazonaws.com/uploads/ec.jpg');">
+									<div class="cover">
+										<h2 class="name pt-2 pl-4 title-cards">{{ "3000 - 4000 sq ft" | upcase}}
+										</h2>
+									</div>
+								</div>
+							</a>
+						</div>
+						<div class="col-6 col-md-3 item p-1">
+							<a href="/construction">
+								<div class="box"
+									style="background-image:url('https://samasthiticonstructions.s3.ap-south-1.amazonaws.com/uploads/ec.jpg');">
+									<div class="cover">
+										<h2 class="name pt-2 pl-4 title-cards">{{ "4000 - 5000 sq ft" | upcase}}
+										</h2>
+									</div>
+								</div>
+							</a>
+						</div>
+						<div class="col-6 col-md-3 item p-1">
+							<a href="/construction">
+								<div class="box"
+									style="background-image:url('https://samasthiticonstructions.s3.ap-south-1.amazonaws.com/uploads/ec.jpg');">
+									<div class="cover">
+										<h2 class="name pt-2 pl-4 title-cards">{{ "5000 - 6000 sq ft" | upcase}}
+										</h2>
+									</div>
+								</div>
+							</a>
+						</div>
+						<div class="col-6 col-md-3 item p-1">
+							<a href="/construction">
+								<div class="box"
+									style="background-image:url('https://samasthiticonstructions.s3.ap-south-1.amazonaws.com/uploads/ec.jpg');">
+									<div class="cover">
+										<h2 class="name pt-2 pl-4 title-cards">{{ "6000 - 7000 sq ft" | upcase}}</h2>
+									</div>
+								</div>
+							</a>
+						</div>
+						<div class="col-6 col-md-3 item p-1">
+							<a href="/construction">
+								<div class="box"
+									style="background-image:url('https://samasthiticonstructions.s3.ap-south-1.amazonaws.com/uploads/ec.jpg');">
+									<div class="cover">
+										<h2 class="name pt-2 pl-4 title-cards">{{ "7000 - 8000 sq ft" | upcase}}</h2>
+									</div>
+								</div>
+							</a>
+						</div>
+						<div class="col-6 col-md-3 item p-1">
+							<a href="/construction">
+								<div class="box"
+									style="background-image:url('https://samasthiticonstructions.s3.ap-south-1.amazonaws.com/uploads/ec.jpg');">
+									<div class="cover">
+										<h2 class="name pt-2 pl-4 title-cards">{{ "8000 - 9000 sq ft" | upcase}}</h2>
+									</div>
+								</div>
+							</a>
+						</div>
+						<div class="col-6 col-md-3 item p-1">
+							<a href="/construction">
+								<div class="box"
+									style="background-image:url('https://samasthiticonstructions.s3.ap-south-1.amazonaws.com/uploads/ec.jpg');">
+									<div class="cover">
+										<h2 class="name pt-2 pl-4 title-cards">{{ "Above 10000 sq ft" | upcase}}</h2>
+									</div>
+								</div>
+							</a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		{% include footer.html %}
+	</body>
+</html>

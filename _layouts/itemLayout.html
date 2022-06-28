@@ -1,13 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
 	{% include head.html %}
+
 	<body>
 		{% include nav.html %}
 
-		<div
-			class="banner-image"
-			style="background:#000;background-image: url('{{ page.banner_image | absolute_url}}'); height: 600px; background-size: cover; background-repeat:no-repeat; background-position: center;"
-		>
+		<div class="banner-image"
+			style="background:#000;background-image: url('{{ page.banner_image | absolute_url}}'); height: 600px; background-size: cover; background-repeat:no-repeat; background-position: center;">
 			{% include breadcrumb.html %}
 		</div>
 
@@ -27,20 +26,80 @@
 			<div class="row justify-content-evenly">
 				<div class="col">
 					<!-- prettier-ignore -->
-					<div class="row d-flex justify-content-evenly">
-					{% for image in page.tilephotos %}
-					<a href="{{ image | absolute_url }}" target="__blank" class="col-6 col-md-3 item p-1">
-						<div class="box" style= "background-image:url('{{ image | absolute_url }}');">
+					<div class="row d-flex justify-content-evenly gallery" id="gallery">
+						{% for image in page.tilephotos %}
+						<!-- Use figure for a more semantic html -->
+						<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject" class="col-6 col-md-3 item">
+							<!-- Link to the big image, not mandatory, but usefull when there is no JS -->
+							<a href="{{ image | absolute_url }}" data-width="1200" data-height="900"
+								itemprop="contentUrl" class="box1">
+								<!-- Thumbnail -->
+								<img src="{{ image | absolute_url }}" itemprop="thumbnail" alt="Image description">
+							</a>
+						</figure>
+						{% endfor %}
+						<!-- Some spacing 😉 -->
+						<div class="spacer"></div>
+
+
+						<!-- Root element of PhotoSwipe. Must have class pswp. -->
+						<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+							<!-- Background of PhotoSwipe. 
+           It's a separate element as animating opacity is faster than rgba(). -->
+							<div class="pswp__bg"></div>
+							<!-- Slides wrapper with overflow:hidden. -->
+							<div class="pswp__scroll-wrap">
+								<!-- Container that holds slides. 
+              PhotoSwipe keeps only 3 of them in the DOM to save memory.
+              Don't modify these 3 pswp__item elements, data is added later on. -->
+								<div class="pswp__container">
+									<div class="pswp__item"></div>
+									<div class="pswp__item"></div>
+									<div class="pswp__item"></div>
+								</div>
+								<!-- Default (PhotoSwipeUI_Default) interface on top of sliding area. Can be changed. -->
+								<div class="pswp__ui pswp__ui--hidden">
+									<div class="pswp__top-bar">
+										<!--  Controls are self-explanatory. Order can be changed. -->
+										<div class="pswp__counter"></div>
+										<button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+										<button class="pswp__button pswp__button--share" title="Share"></button>
+										<button class="pswp__button pswp__button--fs"
+											title="Toggle fullscreen"></button>
+										<button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+										<!-- Preloader demo https://codepen.io/dimsemenov/pen/yyBWoR -->
+										<!-- element will get class pswp__preloader--active when preloader is running -->
+										<div class="pswp__preloader">
+											<div class="pswp__preloader__icn">
+												<div class="pswp__preloader__cut">
+													<div class="pswp__preloader__donut"></div>
+												</div>
+											</div>
+										</div>
+									</div>
+									<div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+										<div class="pswp__share-tooltip"></div>
+									</div>
+									<button class="pswp__button pswp__button--arrow--left"
+										title="Previous (arrow left)">
+									</button>
+									<button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+									</button>
+									<div class="pswp__caption">
+										<div class="pswp__caption__center"></div>
+									</div>
+								</div>
+							</div>
 						</div>
-					</a>
-					{% endfor %}
-				</div>
+					</div>
 				</div>
 			</div>
 		</div>
 		{% endif %}
 
+
 		<!-- prettier-ignore -->
 		{% include footer.html %}
 	</body>
+
 </html>
