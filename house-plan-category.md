@@ -1,7 +1,8 @@
 ---
-layout: 3dDesignLayout
-title: 3D Design
-heading: 3D Design CONSULTANCY
+layout: housePlanCategoryLayout
+title: House Plan Category
+permalink: "/house-plans"
+heading: House Plan Category
 banner_image: https://samasthiticonstructions.s3.ap-south-1.amazonaws.com/uploads/ec.jpg
 tilephotos: []
 serial_number: 1

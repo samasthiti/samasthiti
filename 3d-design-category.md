@@ -1,6 +1,7 @@
 ---
-layout: 3dDesignLayout
+layout: 3dDesignCategoryLayout
 title: 3D Design
+permalink: "/3d-designs"
 heading: 3D Design CONSULTANCY
 banner_image: https://samasthiticonstructions.s3.ap-south-1.amazonaws.com/uploads/ec.jpg
 tilephotos: []

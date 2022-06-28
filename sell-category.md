@@ -1,7 +1,8 @@
 ---
-layout: 3dDesignLayout
-title: 3D Design
-heading: 3D Design CONSULTANCY
+layout: sellCategoryLayout
+title: Real Estate Sell
+permalink: "/real-estate-sells"
+heading: Real Estate Sell CONSULTANCY
 banner_image: https://samasthiticonstructions.s3.ap-south-1.amazonaws.com/uploads/ec.jpg
 tilephotos: []
 serial_number: 1

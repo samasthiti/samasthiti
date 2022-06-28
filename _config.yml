@@ -1,6 +1,6 @@
 title: Samasthiti | We are makers
 short_title: Samasthiti
-permalink: "/:path/"
+permalink: /:title/
 defaults:
   - scope:
       path: ""
@@ -62,3 +62,9 @@ collections:
     output: true
     permalink: "/sells/:path/"
     sort_by: "serial_number"
+
+paginate: 7
+paginate_path: "/page:num"
+
+gems:
+  - jekyll-paginate
