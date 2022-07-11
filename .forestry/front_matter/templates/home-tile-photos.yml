@@ -24,11 +24,3 @@ fields:
   name: tile_url
   label: add url to tile image
   default: ''
-pages:
-- _homePagePhotos/2 tile.md
-- _homePagePhotos/2.md
-- _homePagePhotos/3 tile.md
-- _homePagePhotos/4.md
-- _homePagePhotos/5th big one.md
-- _homePagePhotos/b.md
-- _homePagePhotos/s.md

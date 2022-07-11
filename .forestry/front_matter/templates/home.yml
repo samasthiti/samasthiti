@@ -31,5 +31,3 @@ fields:
   label: layout
   default: homeLayout
   hidden: true
-pages:
-- index.md
