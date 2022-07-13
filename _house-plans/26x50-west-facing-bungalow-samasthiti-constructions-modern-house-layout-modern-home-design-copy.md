@@ -18,7 +18,6 @@ keywords: 'architects in Indore | construction companies in Indore | interior de
 pagetopic: ELEVATION DESIGN
 author: Samasthiti Constructions Pvt Ltd
 robots: ''
-published: false
 
 ---
 **HOUSE PLAN DETAILS**
