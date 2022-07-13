@@ -1,5 +1,5 @@
 ---
-title: 22x60 East Facing Bungalow- Samasthiti Constructions/ Modern house layout/
+title: 40x60 East Facing Bungalow- Samasthiti Constructions/ Modern house layout/
   Modern home design-(copy)
 heading: Piyush Gangle ji
 banner_image: https://samasthiticonstructions.s3.ap-south-1.amazonaws.com/uploads/piyush
