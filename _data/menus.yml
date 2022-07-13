@@ -1,18 +1,16 @@
+---
 toc:
-  - page: "Home"
-    url: "/"
-
-  - page: About
-    url: /about
-
-  - page: Projects
-    url: /projects
-
-  - page: Services
-    url: /services
-
-  - page: Contact
-    url: /contact
-
-  - page: Blogs
-    url: /BlogList
+- page: HOUSE PLAN
+  url: ''
+- page: Home
+  url: "/"
+- page: About
+  url: "/about"
+- page: Projects
+  url: "/projects"
+- page: Services
+  url: "/services"
+- page: Contact
+  url: "/contact"
+- page: Blogs
+  url: "/BlogList"
