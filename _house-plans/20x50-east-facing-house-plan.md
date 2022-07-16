@@ -1,7 +1,7 @@
 ---
 title: 26x50 West Facing Bungalow- Samasthiti Constructions/ Modern house layout/
   Modern home design
-heading: Mahalaxmi hostel
+heading: Mahalaxmi hoste
 banner_image: https://samasthiticonstructions.com/projects/49x90-west-facing-bungalow/
 tilephotos:
 - https://samasthiticonstructions.com/projects/49x90-west-facing-bungalow/#&gid=1&pid=1
