@@ -4,7 +4,6 @@ img: https://samasthiticonstructions.s3.ap-south-1.amazonaws.com/uploads/copy-of
 imgTitle: 30X50 HOUSE PLAN
 tile_url: https://samasthiticonstructions.com/projects/49x90-west-facing-bungalow/
 title: HARSHIT JI.md-(copy)
-published: false
 
 ---
 **HOUSE PLAN DETAILS**
