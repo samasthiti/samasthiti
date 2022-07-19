@@ -1,7 +1,7 @@
 ---
 title: 22x60 East Facing Bungalow- Samasthiti Constructions/ Modern house layout/
   Modern home design
-heading: Piyush Gangle ji
+heading: Piyush Gangle ji 1
 banner_image: https://samasthiticonstructions.s3.ap-south-1.amazonaws.com/uploads/piyush
   A.jpg
 tilephotos:
@@ -21,6 +21,7 @@ keywords: 'architects in Indore | construction companies in Indore | interior de
 pagetopic: ELEVATION DESIGN
 author: Samasthiti Constructions Pvt Ltd
 robots: ''
+house_category: "below-1000-sq-feet"
 ---
 The Bungalow of dimensions 22 feet by 60 feet is constructed for our prestigious client. The East Facing Bungalow which is Constructed in 2790 square feet consists of the Ground floor, First floor, and Tower room. Ground Floor includes 1 Master bedroom,1 Car Parking, Front Garden, Living room, Kitchen plus Dining with wash area, Second Floor consist of 3 Master Bedrooms, Living Room with Informal Sitting and Sitout area, Third floor consist of TowerRoom, Pantry, and Terrace Garden plus Sitout.
 
