@@ -1,6 +1,6 @@
 ---
 layout: housePlanLayout
-title: SAMPLE TRAIL BY SAHIL
+title: 'SAMPLE TRAIL BY SAHIL '
 description: ''
 keywords: ''
 pagetopic: 'SAMPLE 1 '
