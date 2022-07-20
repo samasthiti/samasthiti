@@ -31,5 +31,3 @@ fields:
   label: layout
   default: serviceLayout
   hidden: true
-pages:
-- services.md

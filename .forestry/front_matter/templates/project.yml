@@ -31,5 +31,3 @@ fields:
   label: layout
   hidden: true
   default: projectLayout
-pages:
-- projects.md
