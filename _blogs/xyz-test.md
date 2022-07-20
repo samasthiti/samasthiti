@@ -11,7 +11,6 @@ robots: ''
 serial_number: 
 banner_image: ''
 photo: ''
-published: false
 
 ---
 jhgcfxfcgvhjk
