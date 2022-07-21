@@ -52,4 +52,5 @@ fields:
     - 8000-to-9000-sq-feet
     - above-10000-sq-feet
 pages:
+- _house-plans/constructions-lorem.md
 - _house-plans/new-house.md
