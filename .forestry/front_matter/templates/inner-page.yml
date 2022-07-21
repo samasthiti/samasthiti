@@ -36,6 +36,6 @@ fields:
   name: layout
   label: layout
   hidden: true
-  default: housePlanLayout
+  default: housePlanLayout-1000-to-2000-sq-ft
 pages:
 - 
