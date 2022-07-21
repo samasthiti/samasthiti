@@ -1,7 +1,7 @@
 ---
 layout: blogLayout
 title: Vastu Shastra Tips for Home- Samasthiti Constructions
-heading: VASTU SHASTRA TIPS FOR HOME 1
+heading: VASTU SHASTRA TIPS FOR HOME edit
 subheading: ''
 description: Vastu Shastra Tips for Home The Science of Vastu Shastra is Ancient as
   it dates back thousands of years.
