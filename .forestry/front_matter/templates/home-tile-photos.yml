@@ -24,6 +24,3 @@ fields:
   name: tile_url
   label: add url to tile image
   default: ''
-pages:
-- _homePagePhotos/HARSHIT JI.md
-- _homePagePhotos/harshit-ji.md-copy.md

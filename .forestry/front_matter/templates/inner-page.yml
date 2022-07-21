@@ -1,5 +1,5 @@
 ---
-label: House Plan List
+label: Inner page Template
 hide_body: false
 fields:
 - type: text
@@ -31,11 +31,27 @@ fields:
   label: Serial Number for Ordering
 - type: file
   name: tilephotos
-  label: photo to show on House Plan page
-- type: text
-  name: layout
-  label: layout
-  hidden: true
-  default: housePlanLayout-1000-to-2000-sq-ft
+  label: photo to show on this page
+- type: select
+  name: house_category
+  label: Category
+  description: Select a category for this page
+  hidden: false
+  config:
+    source:
+      type: custom
+    options:
+    - below-1000-sq-feet
+    - 1000-to-2000-sq-feet
+    - 2000-to-3000-sq-feet
+    - 3000-to-4000-sq-feet
+    - 4000-to-5000-sq-feet
+    - 5000-to-6000-sq-feet
+    - 6000-to-7000-sq-feet
+    - 7000-to-8000-sq-feet
+    - 8000-to-9000-sq-feet
+    - above-10000-sq-feet
 pages:
-- 
+- _house-plans/constructions-lorem.md
+- _house-plans/lorem.md
+- _house-plans/new-house.md
