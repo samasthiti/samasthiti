@@ -1,15 +1,14 @@
 ---
 title: test
-description: constructions Lorem
-keywords: constructions Lorem
-pagetopic: constructions Lorem
-author: constructions Lorem
-robots: constructions Lorem
-heading: constructions Lorem
-banner_image: ''
+description: pop
+keywords: constructions Loremest
+pagetopic: constructions Loremest
+author: constructions Loremest
+robots: constructions Loremest
+heading: constructions Loremest
+banner_image: https://samasthiticonstructions.s3.ap-south-1.amazonaws.com/uploads/elevation-2.jpg
 serial_number: 
-tilephotos: ''
+tilephotos: https://samasthiticonstructions.s3.ap-south-1.amazonaws.com/uploads/pictorial-view-of-staircase.jpeg
 house_category: below-1000-sq-feet
-published: false
 
 ---
