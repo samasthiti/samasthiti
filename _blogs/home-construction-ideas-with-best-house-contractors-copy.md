@@ -4,10 +4,13 @@ title: Home construction ideas with best house contractors-(copy)
 heading: Home construction ideas with best house contractors
 subheading: ''
 description: ''
-serial_number: 3
-banner_image: ''
-photo: ''
-published: false
+serial_number: 5
+banner_image: https://samasthiticonstructions.s3.ap-south-1.amazonaws.com/uploads/n11.jpg
+photo: https://samasthiticonstructions.s3.ap-south-1.amazonaws.com/uploads/pictorial-view-of-staircase.jpeg
+keywords: ''
+pagetopic: ''
+author: ''
+robots: ''
 
 ---
 **_Home construction ideas with best house contractors_**
