@@ -9,6 +9,6 @@ heading: xyz
 banner_image: https://samasthiticonstructions.s3.ap-south-1.amazonaws.com/uploads/n11.jpg
 serial_number: -4
 tilephotos: https://samasthiticonstructions.s3.ap-south-1.amazonaws.com/uploads/wall-1.jpg
-house_category: 6000-to-7000-sq-feet
+house_category: below-1000-sq-feet
 
 ---
