@@ -1,7 +1,7 @@
 ---
 title: 30x50 West Facing Bungalow- Samasthiti Constructions/ Modern house layout/
   Modern home design-(copy)-(copy)
-heading: Mahalaxmi hostel
+heading: hostel
 banner_image: https://samasthiticonstructions.com/projects/49x90-west-facing-bungalow/
 tilephotos:
 - https://samasthiticonstructions.com/projects/49x90-west-facing-bungalow/#&gid=1&pid=1
@@ -18,7 +18,6 @@ keywords: 'architects in Indore | construction companies in Indore | interior de
 pagetopic: ELEVATION DESIGN
 author: Samasthiti Constructions Pvt Ltd
 robots: ''
-published: false
 
 ---
 **HOUSE PLAN DETAILS**
