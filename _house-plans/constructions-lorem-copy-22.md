@@ -9,7 +9,6 @@ heading: constructions Lorem
 banner_image: ''
 serial_number: 
 tilephotos: ''
-house_category: below-1000-sq-feet
-published: false
+house_category: 1000-to-2000-sq-feet
 
 ---
