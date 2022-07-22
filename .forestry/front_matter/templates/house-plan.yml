@@ -38,5 +38,4 @@ fields:
   hidden: true
   default: housePlanLayout
 pages:
-- _house-plans/sample-trail-by-sahil.md
 - _house-plans/test-akhil.md
