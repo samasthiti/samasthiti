@@ -6,14 +6,12 @@ subheading: ''
 description: Vastu Shastra Tips for Home The Science of Vastu Shastra is Ancient as
   it dates back thousands of years.
 serial_number: 5
-banner_image: https://samasthiticonstructions.s3.ap-south-1.amazonaws.com/uploads/1
-  main image.jpg
+banner_image: https://samasthiticonstructions.s3.ap-south-1.amazonaws.com/uploads/n22.jpg
 photo: ''
 keywords: ''
 pagetopic: ''
 author: ''
 robots: ''
-published: false
 
 ---
 The Science of Vastu Shastra is Ancient as it dates back thousands of years. It helps in the proper placement of the five elements Earth, Water, Air, Fire, and Space.
