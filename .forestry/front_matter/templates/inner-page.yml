@@ -41,16 +41,16 @@ fields:
     source:
       type: custom
     options:
-    - below-1000-sq-feet
-    - 1000-to-2000-sq-feet
-    - 2000-to-3000-sq-feet
-    - 3000-to-4000-sq-feet
-    - 4000-to-5000-sq-feet
-    - 5000-to-6000-sq-feet
-    - 6000-to-7000-sq-feet
-    - 7000-to-8000-sq-feet
-    - 8000-to-9000-sq-feet
-    - above-10000-sq-feet
+    - below-1000-sq-ft
+    - 1000-to-2000-sq-ft
+    - 2000-to-3000-sq-ft
+    - 3000-to-4000-sq-ft
+    - 4000-to-5000-sq-ft
+    - 5000-to-6000-sq-ft
+    - 6000-to-7000-sq-ft
+    - 7000-to-8000-sq-ft
+    - 8000-to-9000-sq-ft
+    - above-10000-sq-ft
 pages:
 - _house-plans/constructions-lorem-copy-22.md
 - _house-plans/constructions-lorem-copy.md

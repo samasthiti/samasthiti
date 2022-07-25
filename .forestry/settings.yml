@@ -11,10 +11,10 @@ sections:
   path: _data/logo.yml
   label: Logo
 - type: document
-  path: index.md
+  path: index.html
   label: Home
 - type: directory
-  path: _homePagePhotos
+  path: _posts
   label: Home - Tile Photos
   create: all
   match: "**/*"

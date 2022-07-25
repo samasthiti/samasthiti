@@ -1,6 +1,6 @@
 ---
 layout: housePlanLayout-2000-to-3000-sq-ft
-title: House Plan 1000 to 2000 sq-ft
+title: House Plan 2000 to 3000 sq-ft
 heading: House Plan CONSULTANCY
 banner_image: https://samasthiticonstructions.s3.ap-south-1.amazonaws.com/uploads/ec.jpg
 tilephotos: []
