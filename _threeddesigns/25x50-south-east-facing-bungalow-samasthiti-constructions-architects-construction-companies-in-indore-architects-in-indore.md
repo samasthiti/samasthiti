@@ -19,7 +19,7 @@ banner_image: https://samasthiticonstructions.s3.ap-south-1.amazonaws.com/upload
 tilephotos:
 - https://samasthiticonstructions.s3.ap-south-1.amazonaws.com/uploads/HOUSE ELEVATION
   DESIGN GOOD.webp
-
+house_category: "1000-to-2000-sq-ft"
 ---
 Start your home construction journey with us from home design to the execution of the design with our team of engineers, interior designers, civil contractors, and architects in Indore.
 

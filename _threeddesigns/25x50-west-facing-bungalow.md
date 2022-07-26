@@ -22,7 +22,7 @@ keywords: 'architects in Indore | construction companies in Indore | interior de
 pagetopic: ELEVATION DESIGN
 author: Samasthiti Constructions Pvt Ltd
 robots: ''
-
+house_category: "1000-to-2000-sq-ft"
 ---
 The Bungalow of dimensions 30 feet by 60 feet is constructed for our prestigious client. The East Facing Bungalow is constructed in 3200 square feet which includes 2-Bhk, 1-Car Parking, Front Garden, Island Kitchen, Drawing Area, and Living Room on Ground Floor. The first floor includes 2 Master bedrooms, Living Area.
 

@@ -29,15 +29,15 @@
 			<div class="row justify-content-evenly">
 				<div class="col">
 					<div class="row d-flex justify-content-evenly">
-						{% for construction in site.constructions %}
+						{% for buy in site.buys %}
 						<div class="col-6 col-md-3 item p-1">
-							<a href="{{ construction.url | absolute_url }}"
+							<a href="{{ buy.url | absolute_url }}"
 								><div
 									class="box"
-									style="background-image:url('{{construction.banner_image | absolute_url}}');"
+									style="background-image:url('{{buy.banner_image | absolute_url}}');"
 								>
 									<div class="cover">
-										<h2 class="name pt-2 pl-4 title-cards">{{construction.heading | upcase}}</h2>
+										<h2 class="name pt-2 pl-4 title-cards">{{buy.heading | upcase}}</h2>
 									</div>
 								</div>
 							</a>
