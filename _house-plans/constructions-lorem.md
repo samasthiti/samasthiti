@@ -1,5 +1,5 @@
 ---
-title: constructions Lorem12
+title: constructions Lorem
 description: constructions Lorem
 keywords: constructions Lorem
 pagetopic: constructions Lorem
