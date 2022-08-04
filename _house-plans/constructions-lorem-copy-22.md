@@ -6,10 +6,10 @@ pagetopic: constructions Lorem
 author: constructions Lorem
 robots: constructions Lorem
 heading: constructions Lorem
-banner_image: https://samasthiticonstructions.s3.ap-south-1.amazonaws.com/uploads/wall-3.jpg
-serial_number: 
-tilephotos: https://samasthiticonstructions.s3.ap-south-1.amazonaws.com/uploads/wal-4.jpg
-house_category: 1000-to-2000-sq-feet
+banner_image: https://samasthiticonstructions.s3.ap-south-1.amazonaws.com/uploads/pictorial-view-of-staircase.jpeg
+serial_number: 1
+tilephotos: https://samasthiticonstructions.s3.ap-south-1.amazonaws.com/uploads/n11.jpg
+house_category: 2000-to-3000-sq-ft
 
 ---
-fguyfgufgufuhu
+fguyfgufgufuhullllllllllll
