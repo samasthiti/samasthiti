@@ -39,5 +39,4 @@ fields:
   default: housePlanLayout
 pages:
 - _house-plans/abcd-test.md
-- _house-plans/test-1.md
 - _house-plans/test-3.md
