@@ -273,7 +273,7 @@ p {
 	position: absolute;
 	bottom: 0;
 	left: 0;
-	width: 100%;	
+	width: 100%;
 	background-color: rgba(0, 0, 0, 0.25);
 	transition: opacity 0.15s ease-in;
 	opacity: 1;
@@ -478,8 +478,8 @@ div.blog-content img {
 	margin-top:16px;
 }
 
-.dropdown-menu {    
-    left: auto ! important; 
+.dropdown-menu {
+    left: auto ! important;
 }
 
 .font-size{
@@ -501,10 +501,10 @@ div.blog-content img {
 	.px-sm-0{
 		padding-left: 0px!important;
         padding-right: 0px!important;
-	}	
+	}
 	.font-size{
 		font-size: 11px;
-	}		
+	}
 	.font-size-m{
 		font-size: 14px;
 	}
@@ -573,10 +573,39 @@ img {
     background: rgba(255, 255, 255, 0.38) !important;
 }
 span {
-    font-size: 70px;    
+    font-size: 70px;
     position: relative;
     top: -5px;
 }
 .owl-nav button:focus {
     outline: none;
+}
+
+div.long-card-item {
+    display:none;
+    padding: 10px;
+    border-width: 0 1px 1px 0;
+    border-style: solid;
+    border-color: #fff;
+    box-shadow: 0 1px 1px #ccc;
+    margin-bottom: 5px;
+    background-color: #f1f1f1;
+}
+#loadMore {
+    padding: 10px;
+    text-align: center;
+    background-color: #000;
+    color: #fff;
+    border-width: 0 1px 1px 0;
+    border-style: solid;
+    border-color: #fff;
+    box-shadow: 0 1px 1px #ccc;
+    transition: all 600ms ease-in-out;
+    -webkit-transition: all 600ms ease-in-out;
+    -moz-transition: all 600ms ease-in-out;
+    -o-transition: all 600ms ease-in-out;
+}
+#loadMore:hover {
+    background-color: #000;
+    color: #fff;
 }

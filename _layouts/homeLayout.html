@@ -105,7 +105,7 @@
 					<div class="owl-slider">
 						<div id="carousel" class="owl-carousel">
 							{% for images in page.elevation_design_plan %}
-							<a href="{{ "3d-designs" | absolute_url}}">
+							<a href="{{ "real-estate-buys" | absolute_url}}">
 								<div class="item border border-dark">
 									<img src="{{ images.image }}" alt="">
 								</div>
@@ -122,7 +122,7 @@
 			<div class="row justify-content-evenly row-col">
 				{% for imageInfo in site.posts %}
 				{% if imageInfo.imgSize == "large" %}
-				<div class="col-lg-6 long-card item p-1">
+				<div class="col-lg-6 long-card item p-1 long-card-item">
 					<a href="{{imageInfo.tile_url}}" style="text-decoration: none">
 						<div class="box" style="background-image: url('{{imageInfo.img | absolute_url }}');">
 							<div class="{%if imageInfo.img != nil%} cover {%else %} no-img {% endif %}">
@@ -139,8 +139,8 @@
 		<div class="container-fluid">
 			<div class="row mt-4">
 				<div class="col-md-12 text-center">
-					<button type="button" class="btn btn-lg text-white" style="background-color: #000;">Load
-						More</button>
+					<a href="#" class="btn btn-lg text-white" id="loadMore" >Load
+						More</a>
 				</div>
 			</div>
 		</div>
@@ -195,15 +195,7 @@
 		</script>
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
-		<script src="{{ " /js/jquery.jscroll.js" | relative_url }}"></script>
 
-		<script type="text/javascript">
-			// content selector is used to extract the additional items 
-			$('.row-co').jscroll({
-				contentSelector: ".row-co",
-				nextSelector: '.next'
-			});
-		</script>
 		<script>
 			jQuery(".owl-carousel").owlCarousel({
 				autoplay: true,
@@ -234,6 +226,7 @@
 				}
 			});
 		</script>
+
 	</body>
 
 </html>

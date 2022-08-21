@@ -21,3 +21,14 @@ $(".hamburger").on("click", function () {
 		$(".line2").css("visibility", "visible")
 	}
 })
+
+$(function () {
+    $(".long-card-item").slice(0, 4).show();
+    $("#loadMore").on('click', function (e) {
+        e.preventDefault();
+        $(".long-card-item:hidden").slice(0, 4).slideDown("slow");
+        if ($(".long-card-item:hidden").length == 0) {
+            $("#loadMore").fadeOut('slow');
+        }
+    });
+});
