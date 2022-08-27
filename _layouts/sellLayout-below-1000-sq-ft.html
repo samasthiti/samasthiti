@@ -24,7 +24,7 @@
 			<div class="row justify-content-evenly">
 				<div class="col">
 					<div class="row d-flex justify-content-evenly">
-						{% assign sorted-posts = site.sells | where: "house_category","below-1000-sq-feet" %}
+						{% assign sorted-posts = site.sells | where: "house_category","below-1000-sq-ft" %}
 						{% for post in sorted-posts %}
 						<div class="col-6 col-md-3 item p-1">
 							<a href="{{ post.url | absolute_url }}">

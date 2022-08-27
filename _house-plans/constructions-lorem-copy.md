@@ -7,8 +7,8 @@ author: constructions Lorem
 robots: constructions Lorem
 heading: constructions Lorem
 banner_image: ''
-serial_number: 
+serial_number:
 tilephotos: ''
-house_category: below-1000-sq-feet
+house_category: below-1000-sq-ft
 
 ---
