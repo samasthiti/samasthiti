@@ -32,7 +32,7 @@ fields:
 - name: tilephotos
   type: image_gallery
   config: {}
-  label: Tile Photos
+  label: Tile Photos 
 pages:
 - _projects/22x50-east-facing-bungalow.md
 - _projects/25x50-south-east-facing-bungalow-samasthiti-constructions-architects-construction-companies-in-indore-architects-in-indore.md
