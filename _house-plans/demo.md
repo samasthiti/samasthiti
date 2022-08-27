@@ -6,7 +6,7 @@ pagetopic: ''
 author: ''
 robots: ''
 heading: ''
-banner_image: ''
+banner_image: https://samasthiti-constructions.s3.ap-south-1.amazonaws.com/uploads/apple-logo.jpg
 serial_number: 
 tilephotos:
 - https://samasthiti-constructions.s3.ap-south-1.amazonaws.com/uploads/R-10-min.jpg
