@@ -10,6 +10,6 @@ banner_image: ''
 serial_number: 
 tilephotos: https://samasthiti-constructions.s3.ap-south-1.amazonaws.com/uploads/apple-logo.jpg
 house_category: below-1000-sq-ft
-published: false
 
 ---
+wfedgh
