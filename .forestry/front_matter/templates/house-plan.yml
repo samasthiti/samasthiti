@@ -29,8 +29,9 @@ fields:
 - type: number
   name: serial_number
   label: Serial Number for Ordering
-- type: file
+- type: image_gallery
   name: tilephotos
+  config: {}
   label: photo to show on House Plan page
 - type: text
   name: layout
