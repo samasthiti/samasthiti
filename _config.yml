@@ -16,15 +16,12 @@ collections:
    projects:
     output: true
     permalink: "/projects/:path/"   
-    sort_by: "serial_number"
    services:
     output: true
     permalink: "/services/:path/"  
-    sort_by: "serial_number"
    blogs:
     output: true
     permalink: "/blogList/:path/"  
-    sort_by: "serial_number" 
    homePagePhotos:
      output: false
    pages:
@@ -33,35 +30,27 @@ collections:
    designs:
     output: true
     permalink: "/designs/:path/"
-    sort_by: "serial_number"
    house-plans:
     output: true
     permalink: "/house-plans/:path/"
-    sort_by: "serial_number"
    interior-designs:
     output: true
     permalink: "/interior-designs/:path/"
-    sort_by: "serial_number"
    threeddesigns:
     output: true
     permalink: "/3ddesigns/:path/"
-    sort_by: "serial_number"
    constructions:
     output: true
     permalink: "/constructions/:path/"
-    sort_by: "serial_number"
    real-estates:
     output: true
     permalink: "/real-estates/:path/"
-    sort_by: "serial_number"
    buys:
     output: true
     permalink: "/buys/:path/"
-    sort_by: "serial_number"
    sells:
     output: true
     permalink: "/sells/:path/"
-    sort_by: "serial_number"
 
 paginate: 7
 paginate_path: "/page:num"
