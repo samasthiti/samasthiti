@@ -42,7 +42,6 @@ fields:
   default: blogLayout
 pages:
 - _blogs/blog-1.md
-- _blogs/blog-12.md
 - _blogs/home-construction-ideas-with-best-house-contractors.md
 - _blogs/interior-decor-ideas-and-interior -design-tips-for-2021.md
 - _blogs/vastu-shastra-tips-for-home.md
