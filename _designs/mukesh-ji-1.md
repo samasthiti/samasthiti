@@ -1,5 +1,5 @@
 ---
-title: MUKESH JI
+title: RAHUL JI
 description: Samasthiti Constructions is one of the Best Architects, Engineer, Interior
   designer, Civil contractor, Elevation Designer and Real  Estate Companies in Indore.
 keywords: architects in Indore | construction companies in Indore | interior designer
@@ -13,38 +13,40 @@ pagetopic: HOUSE ELEVATION | ELEVATION | MODERN ELEVATION | 3D VIEW | 3D ELEVATI
   | STUDIO APPARTMENT PLANNING
 author: Samasthiti Constructions Pvt Ltd
 robots: ''
-heading: MUKESH JI
-banner_image: https://samasthiti-constructions.s3.ap-south-1.amazonaws.com/uploads/MUKESH
-  JI 12X60.webp
+heading: RAHUL JI
+banner_image: https://samasthiti-constructions.s3.ap-south-1.amazonaws.com/uploads/RAHUL
+  SIR (3)-Model.webp
 serial_number: 
 tilephotos:
-- https://samasthiti-constructions.s3.ap-south-1.amazonaws.com/uploads/MUKESH JI 12X60.webp
+- https://samasthiti-constructions.s3.ap-south-1.amazonaws.com/uploads/RAHUL SIR (3)-Model.webp
 house_category: below-1000-sq-ft
 
 ---
 **HOUSE PLAN DETAILS**
 
-The floor layout of 12 feet by 60 feet was designed as a semi-commercial building. The floor planning is done in a way where the ground floor is consist of a shop, and a hall with an attached washroom, and the staircase is provided in front. The first floor consists of 2 units which consist of one hall, kitchen with proper wash area and bathroom, also one more staircase is provided on the first floor for future expansion. Architects have utilized areas at optimum levels.
+The floor layout of 12 feet by 60 feet was designed as a residential building. The floor plan consists of the first floor and second floor. The first floors have two staircases one outside and the other inside, Master bedroom is attached with a balcony, a Drawing room with a small temple space, Kitchen with dining is provided, and a common washroom. The second floor is connected with the inside staircase on the first floor, and two master bedrooms and one hall for informal seating are provided.
 
-**Plot size -** 12 Feet x 60 Feet
+**Plot size -** 12 feet 6 inches x 60 feet
 
-**Facing the plot -** West
+**Facing the plot -** East
 
 **Number of floors -** 2
 
-**Location -** Indore ( Madhya Pradesh )
+**Location -** Indore (Madhya Pradesh)
 
-**Build-up area-** 1630 Square feet
+**Built-up area -** 1540 square feet
 
-**Type of construction -** Semi-commercial building
+**Type of construction** - residential building
 
-**Estimated cost of construction -** 22,00,000/-
+**The estimated cost of construction -** 21, 00,000/-
 
-**Specification of the plan -**
+**Specification of the plan-**
 
-**Ground floor:** Shop, Hall, and Washroom.
+**First floor:** 1-bhk
 
-**First floor:** Two units of drawing-room, Kitchen with open to sky washroom and Wash area.
+**Second floor:** 2 master bedrooms, hall, and a common washroom
+
+**Third floor:** staircase tower area.
 
 ***
 
@@ -52,4 +54,4 @@ Our drawings and design would decide your home construction investment how it wo
 
 **“INVEST IN US TO MAKE YOUR INVESTMENT BETTER”**
 
-**Architectural house plans and designs / 3d elevation interior design / architectural home design / maharashtra home design plans / house design plan with elevation / architects online / house floor plans and designs / maharashtra house plans / floor plans with elevation / design house floor plans / plan and 3d elevation / construction plans for house**
+**home elevation drawing / architecture drawing plan for house / house ideas floor plans / designing house layout / home interior design floor plans / house elevation design online / front elevation design online / layout house plan design / architectural plans online / 3d home design in India / floor plan layout ideas / online architectural design**
