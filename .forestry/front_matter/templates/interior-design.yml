@@ -38,5 +38,3 @@ fields:
   label: layout
   hidden: true
   default: interiorDesignLayout
-pages:
-- _house-plans/aaaaaaaaa.md
