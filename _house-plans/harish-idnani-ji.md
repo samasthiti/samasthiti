@@ -21,6 +21,8 @@ tilephotos:
 - https://samasthiti-constructions.s3.ap-south-1.amazonaws.com/uploads/HARISH IDNANI
   13'x50'_page-0001.jpg
 - https://samasthiti-constructions.s3.ap-south-1.amazonaws.com/uploads/HARISH IDNANI
+  13'x50'_page-0001.jpg
+- https://samasthiti-constructions.s3.ap-south-1.amazonaws.com/uploads/HARISH IDNANI
   13'x50'.pdf
 house_category: below-1000-sq-ft
 
