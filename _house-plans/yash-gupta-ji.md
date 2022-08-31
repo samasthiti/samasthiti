@@ -16,7 +16,7 @@ robots: ''
 heading: YASH GUPTA JI
 banner_image: https://samasthiti-constructions.s3.ap-south-1.amazonaws.com/uploads/Copy
   of Copy of YASH GUPTA JI (FINAL PLAN)_page-0001.jpg
-serial_number: 29
+serial_number: 23
 tilephotos:
 - https://samasthiti-constructions.s3.ap-south-1.amazonaws.com/uploads/Copy of Copy
   of YASH GUPTA JI (FINAL PLAN)_page-0001.jpg
