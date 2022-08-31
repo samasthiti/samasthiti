@@ -17,7 +17,8 @@ heading: DEEPAK JI
 banner_image: https://samasthiti-constructions.s3.ap-south-1.amazonaws.com/uploads/DEEPAK
   JI (2)-Model_page-0001.jpg
 serial_number: 4
-tilephotos: []
+tilephotos:
+- https://samasthiti-constructions.s3.ap-south-1.amazonaws.com/uploads/DEEPAK JI (2)-Model_page-0001.jpg
 house_category: below-1000-sq-ft
 
 ---
