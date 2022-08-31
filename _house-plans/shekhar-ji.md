@@ -27,7 +27,7 @@ house_category: below-1000-sq-ft
 
 The floor layout of 25 feet by 50 feet was designed as a residential building. The floor plan consists of the ground floor. The ground floors have two living rooms, two kitchens and dining, two master bedrooms with an attached bathroom, a common bathroom, a parking area, and a staircase.
 
-**Plot size -** 25 Feet by 50 Feet
+**Plot size -** 25 Feet by 27 Feet
 
 **Facing of the plot -** South
 
@@ -35,7 +35,7 @@ The floor layout of 25 feet by 50 feet was designed as a residential building. T
 
 **Location -** INDORE (MADHYA PRADESH)
 
-**Built-up area -** 1250 Square feet
+**Built-up area -** 1400 Square feet
 
 **Type of construction -** Residential building
 
@@ -51,5 +51,4 @@ Our drawings and design would decide your home construction investment how it wo
 
 **“INVEST IN US TO MAKE YOUR INVESTMENT BETTER”**
 
-  
 600 sqft house design/800 sq ft house design / best 5 bhk house plan/house design for rent purpose india /1500 square feet bungalow plan / 2000 sq ft house india/25 by 80 ka naksha /design for 600 sq ft house / home design 800 sq ft/house design in 2100 sq ft /triplex house plan /2000 square feet plan
