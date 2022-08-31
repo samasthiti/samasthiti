@@ -14,11 +14,11 @@ pagetopic: HOUSE ELEVATION | ELEVATION | MODERN ELEVATION | 3D VIEW | 3D ELEVATI
 author: Samasthiti Constructions Pvt Ltd
 robots: ''
 heading: RAHUL JI
-banner_image: https://samasthiti-constructions.s3.ap-south-1.amazonaws.com/uploads/RAHUL
-  SIR (3)-Model.webp
+banner_image: https://samasthiti-constructions.s3.ap-south-1.amazonaws.com/uploads/MUKESH
+  JI 12X60_page-0001.jpg
 serial_number: 1
 tilephotos:
-- https://samasthiti-constructions.s3.ap-south-1.amazonaws.com/uploads/RAHUL SIR (3)-Model.webp
+- https://samasthiti-constructions.s3.ap-south-1.amazonaws.com/uploads/MUKESH JI 12X60_page-0001.jpg
 house_category: below-1000-sq-ft
 
 ---
