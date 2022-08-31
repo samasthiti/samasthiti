@@ -45,4 +45,6 @@ The floor layout of 20 feet by 42 feet was designed as a residential building. T
 
 **“INVEST IN US TO MAKE YOUR INVESTMENT BETTER”**
 
-Your Trusted Home Partner Samasthiti Constructions Pvt Ltd | Architects In Indore | Interior Designer In Indore | Construction Companies In Indore | House Plan | Home Construction | Elevation Design
+Your Trusted Home Partner Samasthiti Constructions Pvt Ltd / Architects In Indore / Interior Designer In Indore / Construction Companies In Indore / House Plan / Home Construction / Elevation Design
+
+**home plan architects near me/online 3d home drawing /online tool for house design /single house design with floor plan /3d floor plan design online free /create your house 3d /free modern home plans /kerala home design and floor plans /pdf house plans to 3d /plan for modern house /nice house plans and designs /award winning modern house plans**
