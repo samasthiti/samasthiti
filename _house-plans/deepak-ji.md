@@ -14,10 +14,10 @@ pagetopic: HOUSE ELEVATION | ELEVATION | MODERN ELEVATION | 3D VIEW | 3D ELEVATI
 author: Samasthiti Constructions Pvt Ltd
 robots: ''
 heading: DEEPAK JI
-banner_image: https://samasthiti-constructions.s3.ap-south-1.amazonaws.com/uploads/DEEPAK-JI-_2_-Model.webp
+banner_image: https://samasthiti-constructions.s3.ap-south-1.amazonaws.com/uploads/DEEPAK
+  JI (2)-Model_page-0001.jpg
 serial_number: 4
-tilephotos:
-- https://samasthiti-constructions.s3.ap-south-1.amazonaws.com/uploads/DEEPAK-JI-_2_-Model.webp
+tilephotos: []
 house_category: below-1000-sq-ft
 
 ---
