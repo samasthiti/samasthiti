@@ -6,6 +6,9 @@ fields:
   name: title
   label: Tab Title
 - type: text
+  name: meta_tags
+  label: Meta Tags
+- type: text
   name: description
   label: description of the page (for meta tag <meta name="description".../>)
 - type: text
