@@ -12,6 +12,9 @@ fields:
   name: subheading
   label: Subheading
 - type: text
+  name: meta_title
+  label: title of the page (for meta tag <meta name="title".../>)
+- type: text
   name: description
   label: description of the page (for meta tag <meta name="description".../>)
 - type: text
@@ -42,6 +45,9 @@ fields:
   default: blogLayout
 pages:
 - _blogs/blog-1.md
+- _blogs/blog-12.md
+- _blogs/blog.md
 - _blogs/home-construction-ideas-with-best-house-contractors.md
 - _blogs/interior-decor-ideas-and-interior -design-tips-for-2021.md
+- _blogs/sample-blog.md
 - _blogs/vastu-shastra-tips-for-home.md

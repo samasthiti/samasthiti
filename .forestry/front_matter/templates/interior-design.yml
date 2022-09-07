@@ -6,6 +6,9 @@ fields:
   name: title
   label: Tab Title
 - type: text
+  name: meta_title
+  label: title of the page (for meta tag <meta name="title".../>)
+- type: text
   name: description
   label: description of the page (for meta tag <meta name="description".../>)
 - type: text
@@ -29,9 +32,8 @@ fields:
 - type: number
   name: serial_number
   label: Serial Number for Ordering
-- type: image_gallery
+- type: file
   name: tilephotos
-  config: {}
   label: photo to show on Interior Design page
 - type: text
   name: layout
