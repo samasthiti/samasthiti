@@ -17,6 +17,7 @@ tilephotos:
 - https://samasthiti-constructions.s3.ap-south-1.amazonaws.com/uploads/TRISHANT SHIMPI
   JI-Model (1)_page-0001.jpg
 house_category: 1000-to-2000-sq-ft
+meta_title: House Plan In Indore, House Design In Indore
 
 ---
 **HOUSE PLAN DETAILS**
