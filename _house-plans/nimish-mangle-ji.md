@@ -1,9 +1,15 @@
 ---
 title: NIMISH MANGLE JI
-meta_title: ''
-description: ''
-keywords: ''
-pagetopic: ''
+meta_title: Modern House Design
+description: 3d Interior Designers near. all the constrcution related services in
+  under a roof. We are the best interior designer & construction firm in indore.
+keywords: row house plans in 500 sq ft /2700 sq ft house plans 3d /house building
+  plans 1500 sq ft /1200 sq feet house plans / house design for 2400 sq feet/1350
+  square feet home design /2600 square feet house design /house design in 1000 square
+  feet /900 sq feet home design /900 sq ft building plan /best home design for 1000
+  sq ft / house design 1400 square feet
+pagetopic: 3d Interior Designers near. all the constrcution related services in under
+  a roof. We are the best interior designer & construction firm in indore.
 author: Samasthiti Constructions Pvt Ltd
 robots: ''
 heading: NIMISH MANGLE JI
