@@ -1,9 +1,13 @@
 ---
 title: VIVEK SHUKLA JI
-meta_title: ''
-description: ''
-keywords: ''
-pagetopic: ''
+meta_title: Home Designers, Interior Designers
+description: ' <meta name="description" content="3d Interior Designers near. all the
+  constrcution related services in under a roof. We are the best interior designer
+  & construction firm in indore.'
+keywords: '2000 square feet house design india, building plan in 1200 square feet,
+  home design for 1200 sq feet, home design in 2000 square feet, home design in 700
+  square feet, 1400 square feet house plan, house in 1100 sq ft, 1000sqft home design '
+pagetopic: Home Designers, Interior Designers
 author: ''
 robots: ''
 heading: VIVEK SHUKLA JI
