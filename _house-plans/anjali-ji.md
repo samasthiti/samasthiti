@@ -13,7 +13,7 @@ robots: ''
 heading: ANJALI JI
 banner_image: https://samasthiti-constructions.s3.ap-south-1.amazonaws.com/uploads/ANJALI
   PARASHAR JI (1)-Model_page-0001.jpg
-serial_number: 36
+serial_number: 1
 tilephotos:
 - https://samasthiti-constructions.s3.ap-south-1.amazonaws.com/uploads/ANJALI PARASHAR
   JI (1)-Model_page-0001.jpg
