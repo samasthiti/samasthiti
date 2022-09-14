@@ -28,7 +28,7 @@ house_category: 1000-to-2000-sq-ft
 
 The house is of dimensions 22 feet by 50 feet. The elevation consists of British grey, White colors, MS Rafters, Two-way lights, and a Wooden false ceiling.
 
-**Plot size -** 20 Feet x 40 Feet
+**Plot size -** 22 Feet x 50 Feet
 
 **Facing of the plot -** East
 
@@ -38,7 +38,6 @@ The house is of dimensions 22 feet by 50 feet. The elevation consists of British
 
 **Type of building -** Residential building
 
-  
 **Material specification -** British grey, White colors, MS Rafters, Two-way lights, and a Wooden false ceiling
 
 **“INVEST IN US TO MAKE YOUR INVESTMENT BETTER”**
