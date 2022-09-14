@@ -21,9 +21,9 @@ tilephotos:
 house_category: below-1000-sq-ft
 
 ---
-**OFFICE PLAN DETAILS**
+**WAITING AREA PLAN DETAILS**
 
-The floor layout of the office of dimension 21 by 9 feet has a 9 seater sofa, reception table, coffee machine, T.v. unite, and Shelf unite. 
+The floor layout of the office of dimension 21 by 9 feet has a 9 seater sofa, reception table, coffee machine, T.v. unite, and Shelf unite.
 
 **Plot size -** 21 Feet x 9 Feet
 
@@ -31,7 +31,7 @@ The floor layout of the office of dimension 21 by 9 feet has a 9 seater sofa, re
 
 **Built-up area -** 189 Square feet
 
-**Type of Interior -** Waiting area. 
+**Type of Interior -** Waiting area.
 
 **The estimated cost of construction -** 3,00,000/-
 
