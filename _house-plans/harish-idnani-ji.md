@@ -2,15 +2,11 @@
 title: HARISH IDNANI JI
 description: Samasthiti Constructions is one of the Best Architects, Engineer, Interior
   designer, Civil contractor, Elevation Designer and Real  Estate Companies in Indore.
-keywords: architects in Indore | construction companies in Indore | interior designer
-  in Indore | best architects in Indore | home design | house plan | elevation design
-  | vaastu shastra for home | Home construction | best construction companies in Indore
-  | modern house designs | architecture firms in Indore | best interior designer in
-  Indore | home interior | Home | house | 20X50 ELEVATION | 20X50 HOUSE ELEVATION
-  |20X50 HOUSE PLAN | 20X50 PLANNING | STUDIO APPARTMENT PLANNING
-pagetopic: HOUSE ELEVATION | ELEVATION | MODERN ELEVATION | 3D VIEW | 3D ELEVATION
-  | FRONT VIEW 20X50 ELEVATION | 20X50 HOUSE ELEVATION |20X50 HOUSE PLAN | 20X50 PLANNING
-  | STUDIO APPARTMENT PLANNING
+keywords: 1450 sq ft house plan/home design in 900 square feet /map of 1200 sq feet
+  home /27 x 40 house plans north facing /house plan for 800 sq feet /1250 sf house
+  plans /5 bhk duplex house plan /900 sqft house design /1250 house plan /1650 sq
+  ft /5 bhk modern house design /home design in 1600 square feet
+pagetopic: 1450 sq ft house plan, 27 x 40 house plans north facing.
 author: Samasthiti Constructions Pvt Ltd
 robots: ''
 heading: HARISH IDNANI JI
@@ -19,12 +15,9 @@ banner_image: https://samasthiti-constructions.s3.ap-south-1.amazonaws.com/uploa
 serial_number: 20
 tilephotos:
 - https://samasthiti-constructions.s3.ap-south-1.amazonaws.com/uploads/HARISH IDNANI
-  13'x50'_page-0001.jpg
-- https://samasthiti-constructions.s3.ap-south-1.amazonaws.com/uploads/HARISH IDNANI
-  13'x50'_page-0001.jpg
-- https://samasthiti-constructions.s3.ap-south-1.amazonaws.com/uploads/HARISH IDNANI
-  13'x50'.pdf
+  13_x50__page-0001.jpg
 house_category: below-1000-sq-ft
+meta_title: 1450 sq ft house plan, 27 x 40 house plans north facing.
 
 ---
 **HOUSE PLAN DETAILS**
@@ -55,4 +48,4 @@ Our drawings and design would decide your home construction investment how it wo
 
 **“INVEST IN US TO MAKE YOUR INVESTMENT BETTER”**
 
-1450 sq ft house plan/home design in 900 square feet /map of 1200 sq feet home /27 x 40 house plans north facing /house plan for 800 sq feet /1250 sf house plans /5 bhk duplex house plan /900 sqft house design /1250 house plan /1650 sq ft /5 bhk modern house design /home design in 1600 square feet
+**1450 sq ft house plan/home design in 900 square feet /map of 1200 sq feet home /27 x 40 house plans north facing /house plan for 800 sq feet /1250 sf house plans /5 bhk duplex house plan /900 sqft house design /1250 house plan /1650 sq ft /5 bhk modern house design /home design in 1600 square feet**
