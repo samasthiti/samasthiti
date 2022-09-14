@@ -11,7 +11,7 @@ author: Samasthiti Constructions Pvt Ltd
 robots: ''
 heading: HARISH IDNANI JI
 banner_image: https://samasthiti-constructions.s3.ap-south-1.amazonaws.com/uploads/HARISH
-  IDNANI 13'x50'_page-0001.jpg
+  IDNANI 13_x50__page-0001.jpg
 serial_number: 20
 tilephotos:
 - https://samasthiti-constructions.s3.ap-south-1.amazonaws.com/uploads/HARISH IDNANI
