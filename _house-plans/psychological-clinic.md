@@ -21,9 +21,9 @@ tilephotos:
 house_category: below-1000-sq-ft
 
 ---
-**OFFICE PLAN DETAILS**
+**CLINIC PLAN DETAILS**
 
-The floor layout of the office of dimensions 21 by 20 feet consists of the main cabin with a washroom, common washroom, treatment area, reception area, and passage used for seating. 
+The floor layout of the office of dimensions 21 by 20 feet consists of the main cabin with a washroom, common washroom, treatment area, reception area, and passage used for seating.
 
 **Plot size -** 21 Feet x 20 Feet
 
