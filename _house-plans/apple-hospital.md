@@ -23,17 +23,17 @@ house_category: below-1000-sq-ft
 ---
 **OFFICE PLAN DETAILS**
 
-The floor layout of the office of dimension 22 by 32 feet consists of a Boss cabin, Manager Cabin, Conference room, Work station, Reception, Pantry, and Common toilet.
+The floor layout of the office of dimension 21 by 9 feet has a 9 seater sofa, reception table, coffee machine, T.v. unite, and Shelf unite. 
 
-**Plot size -** 22 Feet x 32 Feet
+**Plot size -** 21 Feet x 9 Feet
 
 **Location -** INDORE (MADHYA PRADESH)
 
-**Built-up area -** 704 Square feet
+**Built-up area -** 189 Square feet
 
-**Type of Interior -** Commercial office
+**Type of Interior -** Waiting area. 
 
-**The estimated cost of construction -** 7,00,000/-
+**The estimated cost of construction -** 3,00,000/-
 
 **“INVEST IN US TO MAKE YOUR INVESTMENT BETTER”**
 
