@@ -18,7 +18,7 @@ tilephotos:
 house_category: 1000-to-2000-sq-ft
 
 ---
-**OUSE PLAN DETAILS**
+**HOUSE PLAN DETAILS**
 
 The floor layout of 20 feet by 50 feet was designed as a residential building. The floor planning is done in a way where the ground floor is consist of parking, drawing with washroom, kitchen, wash area, garden, and 1 master bedroom. The first floor consists of a pooja room, balcony, and 2 bedrooms with a washroom. The second floor consists of 2 units 1 master bedroom, drawing room, kitchen, washroom, and drawing room, kitchen, and washroom. Architects have utilized the area at an optimum level.
 
@@ -42,9 +42,9 @@ The floor layout of 20 feet by 50 feet was designed as a residential building. T
 
 **First Floor:** Balcony, 2Bedroom, and Temple.
 
-**Second Floor:** 
+**Second Floor:**
 
-**1st unit -**1 Master Bedroom, Drawing Room, Kitchen, Washroom, and
+\**1st unit -**1 Master Bedroom, Drawing Room, Kitchen, Washroom, and
 
 **2nd unit**- Drawing Room, Kitchen, and Washroom.
 
