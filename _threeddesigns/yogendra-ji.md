@@ -1,15 +1,20 @@
 ---
 title: YOGENDRA JI
-meta_title: ''
-description: ''
-keywords: ''
-pagetopic: ''
-author: ''
+meta_title: 'building naksha design, building plan drawing in chennai. '
+description: Most experienced team of highly qualified engineers who will help you
+  to make your dream house, office, building etc
+keywords: building naksha design/building plan drawing in chennai /house plan design
+  free download /Hyderabad house design / build it house plans/houses and house plans
+  /front elevation design app /3d building design online /architecture floorplans
+  /draw exterior house plans free /architectural elevation design for residential
+  houses / 3d design homes/3d home design layout
+pagetopic: 'building naksha design, building plan drawing in chennai. '
+author: Samasthiti Constructions Pvt Ltd
 robots: ''
 heading: YOGENDRA JI
 banner_image: https://samasthiti-constructions.s3.ap-south-1.amazonaws.com/uploads/1_
   (1).jpg
-serial_number: 
+serial_number: 1
 tilephotos:
 - https://samasthiti-constructions.s3.ap-south-1.amazonaws.com/uploads/1_ (2).jpg
 house_category: 2000-to-3000-sq-ft
