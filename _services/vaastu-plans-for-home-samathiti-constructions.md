@@ -1,5 +1,5 @@
 ---
-title: House Plan In Indore, House Design In Indore/
+title: 'House Plan In Indore, House Design In Indore '
 heading: VAASTU FOR HOME
 banner_image: https://samasthiticonstructions.s3.ap-south-1.amazonaws.com/uploads/vastu.jpg
 tilephotos: []
