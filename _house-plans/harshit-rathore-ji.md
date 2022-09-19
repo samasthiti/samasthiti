@@ -22,27 +22,29 @@ house_category: 1000-to-2000-sq-ft
 ---
 **HOUSE PLAN DETAILS**
 
-The floor layout of 26 feet by 50 feet was designed as a residential building. The floor plan consists of the ground floor. The ground floors have a drawing room, a bedroom, a rent room with an attached bathroom, a common bathroom, a dining area, a kitchen, a master bedroom, and a wash area.
+The floor layout of 30 feet by 50 feet was designed as a residential building. The floor plan consists of the ground floor,first floor and second floor. The ground floors have a drawing room, a bedroom, a rent room with an attached bathroom, a common bathroom, a dining area, a kitchen, a master bedroom, and a wash area.
 
-**Plot size -** 26 Feet by 50 Feet
+**Plot size -** 30 Feet by 50 Feet
 
-**Facing of the plot -** West
+**Facing of the plot -** East
 
 **Number of floors -** 1
 
 **Location -** INDORE (MADHYA PRADESH)
 
-**Built-up area -** 1100 Square feet
+**Built-up area -** 4500 Square feet
 
 **Type of construction -** Residential building
 
-**The estimated cost of construction -** 14,85,000/-
+**The estimated cost of construction -** 63,85,000/-
 
 **Specification of plan -**
 
-**Ground floor:** a drawing-room, a bedroom, a rent room with an attached bathroom, a common bathroom, a dining area, a kitchen, a master bedroom, and a wash area.
+**Ground floor:** SHOWROOM Area  and lift .
 
-**First floor:** Staircase tower room.
+**First floor:** 6 studio room with lounge.
+
+**Second floor:** 6 studio room with lounge.
 
 **“INVEST IN US TO MAKE YOUR INVESTMENT BETTER”**
 
