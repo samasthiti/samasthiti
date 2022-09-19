@@ -15,14 +15,15 @@ banner_image: https://samasthiti-constructions.s3.ap-south-1.amazonaws.com/uploa
 serial_number: 30
 tilephotos:
 - https://samasthiti-constructions.s3.ap-south-1.amazonaws.com/uploads/AKSHAY JI 30X52_page-0001.jpg
+- https://samasthiti-constructions.s3.ap-south-1.amazonaws.com/uploads/NEW VIEW 1.jpg
 house_category: 1000-to-2000-sq-ft
 
 ---
 **HOUSE PLAN DETAILS**
 
-The floor layout of 25 feet by 50 feet was designed as a residential building. The ground floor planning is done in a way where the ground floor is consist of parking, drawing with washroom, sit out, kitchen, wash area, and 1 master bedroom with washroom. The first floor consists of a balcony, living, and 2 master bedrooms with washrooms. The second floor consists of a theater, pantry, terrace garden, and washroom. Architects have utilized the area at an optimum level.
+The floor layout of 30 feet by 50 feet was designed as a residential building. The ground floor planning is done in a way where the ground floor is consist of parking, a drawing room with a common washroom, a sit-out, a kitchen, a wash area, and 1 master bedroom with a washroom. The first floor consists of a balcony, living, and 2 master bedrooms with washrooms. The second floor consists of a theater, pantry, terrace garden, and washroom. Architects have utilized the area at an optimum level.
 
-**Plot size -** 25 Feet x 50 Feet
+**Plot size -** 30 Feet x 50 Feet
 
 **Facing of the plot -** West
 
@@ -30,17 +31,17 @@ The floor layout of 25 feet by 50 feet was designed as a residential building. T
 
 **Location -** INDORE (MADHYA PRADESH)
 
-**Built-up area -** 1250 Square feet
+**Built-up area -** 4144 Square feet
 
 **Type of construction -** Residential building
 
-**Estimated cost of construction-** 1,687,500/-
+**Estimated cost of construction-** 64,64,640/-
 
 **Specification of the Plan-**
 
-**Ground Floor:** Parking, Drawing, Kitchen, sit-out, wash Area, and 1 master bedroom.
+**Ground Floor:** Parking, Drawing, Kitchen, sit-out, Garden, wash Area, and 1 master bedroom.
 
-**First Floor:** Balcony, Living, and 2 Master Bedrooms.
+**First Floor:** Balcony, Living, and 2 Master Bedrooms,Office room.
 
 **Second Floor:** Theater, Pantry, Terrace Garden.
 
