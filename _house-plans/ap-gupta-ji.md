@@ -13,12 +13,13 @@ pagetopic: HOUSE ELEVATION | ELEVATION | MODERN ELEVATION | 3D VIEW | 3D ELEVATI
   | STUDIO APPARTMENT PLANNING
 author: Samasthiti Constructions Pvt Ltd
 robots: ''
-heading: 'AP GUPTA JI '
+heading: 'AP DUBEY JI '
 banner_image: https://samasthiti-constructions.s3.ap-south-1.amazonaws.com/uploads/Copy-of-Copy-of-AP-DUBEY-JI.webp
 serial_number: 5
 tilephotos:
 - https://samasthiti-constructions.s3.ap-south-1.amazonaws.com/uploads/Copy-of-Copy-of-AP-DUBEY-JI.webp
 house_category: below-1000-sq-ft
+meta_title: ''
 
 ---
 **HOUSE PLAN DETAILS**
