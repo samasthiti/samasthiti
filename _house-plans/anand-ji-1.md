@@ -1,5 +1,5 @@
 ---
-title: ANAND JI
+title: 1400 sq ft duplex house plan, 1300 sq ft house
 meta_title: 1400 sq ft duplex house plan, 1300 sq ft house
 description: 'Contact us Right Now. We are offering comprehensive range Civil Construction
   Services to our clients be it for commercial or residential building. '
