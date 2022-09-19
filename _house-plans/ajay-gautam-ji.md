@@ -24,6 +24,7 @@ tilephotos:
 - https://samasthiti-constructions.s3.ap-south-1.amazonaws.com/uploads/Copy of 20210302_GF
   PLAN (1)_page-0001 (1).jpg
 house_category: 2000-to-3000-sq-ft
+published: false
 
 ---
 **HOUSE PLAN DETAILS**
