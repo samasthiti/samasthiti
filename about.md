@@ -1,11 +1,12 @@
 ---
 layout: aboutLayout
-title: Real Estate Company In Indore, Property In Indore
+title: 'Best Interior designers in indore '
 heading: ABOUT US
 banner_image: https://samasthiticonstructions.s3.ap-south-1.amazonaws.com/uploads/GURU
   DATT JI.jpg
 description: Awesome deals available in property in indore contact best real estate
   company. We are builder and developer, Vastu consultant too. Call us on 9111088801
+meta_title: Best Interior designers in indore
 
 ---
 We are **makers**!!
