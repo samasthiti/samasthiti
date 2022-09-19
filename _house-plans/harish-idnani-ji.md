@@ -22,7 +22,7 @@ meta_title: 1450 sq ft house plan, 27 x 40 house plans north facing.
 ---
 **HOUSE PLAN DETAILS**
 
-The floor layout of 13 feet by 50 feet was designed as a residential building. The ground floor consists of a shop, a drawing hall, a common washroom, and a master bedroom attached.
+The floor layout of 13 feet by 50 feet was designed as a residential building. The ground floor consists of a shop, a drawing hall, a common washroom, and a master bedroom attached. The second floor consists of Kitchen with a washroom and store, Master bedroom with Washroom, Common washroom, and Living area.
 
 **Plot size -** 25 feet x 30 feet
 
