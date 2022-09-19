@@ -30,7 +30,7 @@ The floor layout of 23 feet 6 inches by 50 feet 6 inches was designed as a resid
 
 **Location -** INDORE (MADHYA PRADESH)
 
-**Built-up area -** 2300 Square feet
+**Built-up area -** 2350 Square feet
 
 **Type of construction -** Residential building
 
@@ -42,7 +42,6 @@ The floor layout of 23 feet 6 inches by 50 feet 6 inches was designed as a resid
 
 **FIRST FLOOR:** 2 Master bedrooms, a lobby, and a sitting area.
 
-  
 **SECOND FLOOR:** Staircase tower room.
 
 **“INVEST IN US TO MAKE YOUR INVESTMENT BETTER”**
