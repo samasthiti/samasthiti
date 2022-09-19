@@ -21,9 +21,9 @@ house_category: 2000-to-3000-sq-ft
 ---
 **HOUSE PLAN DETAILS**
 
-The floor layout of 44 feet by 53 feet was designed as a residential building. The floor plan consists of the first floor. The first floor consists of 2 Bhk units, 3 Bhk units, and 1 Rk unit.
+The floor layout of 48’8” Feet by 66’6” Feett was designed as a residential building. The floor plan consists of the first floor. The first floor consists of 2 Bhk units, 3 Bhk units, and 1 Rk unit.
 
-**Plot size -** 48’4” Feet by 66’6” Feet
+**Plot size -** 48’8” Feet by 66’6” Feet
 
 **Facing of the plot -** East
 
