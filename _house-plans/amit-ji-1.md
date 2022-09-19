@@ -39,7 +39,7 @@ The floor layout of 23 feet by 50 feet was designed as a residential building. T
 **SPECIFICATION OF THE PLAN-**
 
 **GROUND FLOOR:** Drawing room with open kitchen and a common bathroom, four-wheeler parking, bedroom.  
-**FIRST FLOOR:** 2 Master bedrooms, drawing room, common room, balcony.
+**FIRST FLOOR:** 2 Master bedrooms, living room, common room, balcony.
 
 **SECOND FLOOR:** Staircase tower room.
 
