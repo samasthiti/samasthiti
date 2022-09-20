@@ -21,6 +21,7 @@ tilephotos:
 - https://samasthiti-constructions.s3.ap-south-1.amazonaws.com/uploads/Copy of VIJITA
   JI_page-0001.jpg
 house_category: below-1000-sq-ft
+meta_title: ''
 
 ---
 **HOUSE PLAN DETAILS**
@@ -39,7 +40,7 @@ The floor layout of 20 feet by 40 feet was designed as a residential building. T
 
 **Type of construction -** Residential building
 
-**The estimated cost of construction -** 10,80,000 /-
+**The estimated cost of construction -** 11,20,000 /-
 
 **Specification of plan -**
 
