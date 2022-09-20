@@ -21,6 +21,7 @@ tilephotos:
 - https://samasthiti-constructions.s3.ap-south-1.amazonaws.com/uploads/Copy of RAVI
   JI_page-0001.jpg
 house_category: below-1000-sq-ft
+meta_title: ''
 
 ---
 **HOUSE PLAN DETAILS**
@@ -39,7 +40,7 @@ The floor layout of 15’ feet by 50’ feet was designed as a residential build
 
 **Type of construction -** Residential building
 
-**Estimation cost of the construction -** 1,012,500/-
+**Estimation cost of the construction -** 10,50,500/-
 
 **Specification of the plan -**
 
