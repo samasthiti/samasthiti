@@ -23,9 +23,9 @@ house_category: 1000-to-2000-sq-ft
 ---
 **HOUSE PLAN DETAILS**
 
-The floor layout of 25 feet by 50 feet was designed as a residential building. The ground floor planning is done in a way where the ground floor is consist of parking, drawing with washroom, kitchen with store, dining area, 2 master bedrooms, and pooja area. The first floor is consist of 2 master bedrooms, a Living area, and a common balcony,
+The floor layout of 25 feet by 62 feet was designed as a residential building. The ground floor planning is done in a way where the ground floor is consist of parking, drawing with washroom, kitchen with store, dining area, 2 master bedrooms, and pooja area. The first floor is consist of 2 master bedrooms, a Living area, and a common balcony,
 
-**Plot size -** 30 Feet x 50 Feet
+**Plot size -** 30 Feet x 62 Feet
 
 **Facing of the plot -** East
 
@@ -33,11 +33,11 @@ The floor layout of 25 feet by 50 feet was designed as a residential building. T
 
 **Location -** INDORE (MADHYA PRADESH)
 
-**Built-up area -** 3000 Square feet
+**Built-up area -** 3720 Square feet
 
 **Type of construction -** Residential building
 
-**Estimated cost of construction-** 40,00,000/-
+**Estimated cost of construction-** 52,00,000/-
 
 **Specification of the Plan-**
 
