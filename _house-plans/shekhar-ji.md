@@ -21,25 +21,26 @@ tilephotos:
 - https://samasthiti-constructions.s3.ap-south-1.amazonaws.com/uploads/Copy of shekhar
   ji_page-0001.jpg
 house_category: below-1000-sq-ft
+meta_title: ''
 
 ---
 **HOUSE PLAN DETAILS**
 
-The floor layout of 25 feet by 50 feet was designed as a residential building. The floor plan consists of the ground floor. The ground floors have two living rooms, two kitchens and dining, two master bedrooms with an attached bathroom, a common bathroom, a parking area, and a staircase.
+The floor layout of 50 feet by 25 feet was designed as a residential building. The floor plan consists of the ground floor. The ground floors have two living rooms, two kitchens and dining, two master bedrooms with an attached bathroom, a common bathroom, a parking area, and a staircase.
 
-**Plot size -** 25 Feet by 27 Feet
+**Plot size -** 50 Feet by 25Feet
 
-**Facing of the plot -** South
+**Facing of the plot -**North
 
 **Number of floors -** 1
 
 **Location -** INDORE (MADHYA PRADESH)
 
-**Built-up area -** 1400 Square feet
+**Built-up area -** 1470 Square feet
 
 **Type of construction -** Residential building
 
-**The estimated cost of construction -** 16,87,500/-
+**The estimated cost of construction -** 20,58,000/-
 
 **Specification of plan -**
 
