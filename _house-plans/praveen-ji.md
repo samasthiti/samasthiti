@@ -35,11 +35,11 @@ The floor layout of 23 feet 4 inches by 70 feet was designed as a residential bu
 
 **Location -** INDORE (MADHYA PRADESH)
 
-**Built-up area -** 3000 Square feet
+**Built-up area -** 3220 Square feet
 
 **Type of construction -** Residential building
 
-**Estimated cost of construction -** 40,50,000 /-
+**Estimated cost of construction -** 45,00,000 /-
 
 **Specification of plan -**
 
