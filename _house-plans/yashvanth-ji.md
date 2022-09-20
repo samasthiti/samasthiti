@@ -24,17 +24,17 @@ The floor layout of 17 feet by 50 feet was designed as a residential building. T
 
 **Plot size -** 17 Feet x 50 Feet
 
-**Facing of the plot -** North
+**Facing of the plot -** West
 
 **Number of floors -** 02
 
 **Location -** INDORE (MADHYA PRADESH)
 
-**Built-up area -** 850 Square feet
+**Built-up area -** 1700  Square feet
 
 **Type of construction -** Residential building
 
-**Estimated cost of construction-** 1,147,500/-
+**Estimated cost of construction-** 23,80,500/-
 
 **Specification of the Plan-**
 
