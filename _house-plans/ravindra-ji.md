@@ -27,7 +27,7 @@ The floor layout of 30 feet by 50 feet was designed as a residential building. T
 
 **Plot size -** 30 Feet by 50 Feet
 
-**Facing of the plot -** North
+**Facing of the plot -** South
 
 **Number of floors -** 2
 
@@ -37,7 +37,7 @@ The floor layout of 30 feet by 50 feet was designed as a residential building. T
 
 **Type of construction -** Residential building
 
-**The estimated cost of construction -** 35,10,000/-
+**The estimated cost of construction -** 36,40,000/-
 
 **Specification of plan -**
 
