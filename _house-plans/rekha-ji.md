@@ -21,9 +21,9 @@ house_category: 1000-to-2000-sq-ft
 ---
 **HOUSE PLAN DETAILS**
 
-The floor layout of 33 feet by 60 feet was designed as a residential building. The floor plan consists of the ground floor and first floor. The ground floors have a Car parking with a fountain area, 2 Master bedrooms, Courtyard, a Living area, a Dining area, Kitchen with a store and wash area, a temple, and a wash area. The first floor consists of 3 Master bedrooms, a Living area, a Balcony area, and a Common toilet.
+The floor layout of 40 feet by 50 feet was designed as a residential building. The floor plan consists of the ground floor and first floor. The ground floors have a Car parking with a fountain area, 2 Master bedrooms, Courtyard, a Living area, a Dining area, Kitchen with a store and wash area, a temple, and a wash area. The first floor consists of 3 Master bedrooms, a Living area, a Balcony area, and a Common toilet.
 
-**Plot size -** 33 Feet by 60 Feet
+**Plot size -** 40 Feet by 50 Feet
 
 **Facing of the plot -** South
 
