@@ -11,13 +11,23 @@ keywords: home design plans for 900 sq ft/25x100 house plans /1500sq feet /2 bhk
 pagetopic: home design plans for 900 sq ft, 25x100 house plans.
 author: Samasthiti Constructions Pvt Ltd
 robots: ''
-heading: ''
-banner_image: https://samasthiti-constructions.s3.ap-south-1.amazonaws.com/uploads/WhatsApp
-  Image 2022-06-17 at 12.28.35 PM (8) (2).jpeg
+heading: RAMNARYAN JI
+banner_image: https://samasthiti-constructions.s3.ap-south-1.amazonaws.com/uploads/Copy
+  of Ramnaryan ji w.jpg
 serial_number: 7
 tilephotos:
+- https://samasthiti-constructions.s3.ap-south-1.amazonaws.com/uploads/Copy of Ramnaryan
+  ji w.jpg
+- https://samasthiti-constructions.s3.ap-south-1.amazonaws.com/uploads/Copy of Ramnaryan
+  ji e.jpg
+- https://samasthiti-constructions.s3.ap-south-1.amazonaws.com/uploads/Copy of Ramnaryan
+  ji q.jpg
+- https://samasthiti-constructions.s3.ap-south-1.amazonaws.com/uploads/Copy of Ramnaryan
+  ji a.jpg
 - https://samasthiti-constructions.s3.ap-south-1.amazonaws.com/uploads/WhatsApp Image
   2022-06-17 at 12.28.35 PM (8) (2).jpeg
+- https://samasthiti-constructions.s3.ap-south-1.amazonaws.com/uploads/Copy of Ramnaryan
+  ji 3.jpg
 house_category: below-1000-sq-ft
 
 ---
