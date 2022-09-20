@@ -1,5 +1,5 @@
 ---
-title: Vikas pathak ji
+title: VIKAS PATHAK JI
 meta_title: duplex house design 1200 sq ft, 700sqft home design.
 description: duplex bungalow design india/1300 sq ft home plan/500 sq ft home plan/best
   home design in 700 sq ft/house map in 1000 square feet
@@ -11,7 +11,7 @@ keywords: Working on latest technology. Most trustworthy team for house c& build
 pagetopic: duplex house design 1200 sq ft, 700sqft home design.
 author: Samasthiti Constructions Pvt Ltd
 robots: ''
-heading: Vikas pathak ji
+heading: VIKAS PATHAK JI
 banner_image: https://samasthiti-constructions.s3.ap-south-1.amazonaws.com/uploads/11.Vikas
   ji (OPTION 2).jpg
 serial_number: 8
