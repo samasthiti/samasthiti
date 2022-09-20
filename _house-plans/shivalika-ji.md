@@ -35,17 +35,16 @@ The floor layout of 20 feet by 60 feet was designed as a residential building. T
 
 **Type of construction -** Residential building
 
-**The estimated cost of construction -** 24,30,000 /-
+**The estimated cost of construction -** 25,30,000 /-
 
 **Specification of plan -**
 
 **Ground floor:** drawing room, a kitchen, a master bedroom, four-wheeler parking, a garden area, a common washroom, and a staircase.
 
-**First floor:** A kitchen, a painting room, a common washroom, two bedrooms, and a balcony.
+**First floor:** A painting room, a common washroom, two bedrooms, and a balcony.
 
 **“INVEST IN US TO MAKE YOUR INVESTMENT BETTER”**
 
 Your Trusted Home Partner Samasthiti Constructions Pvt Ltd / Architects In Indore / Interior Designer In Indore / Construction Companies In Indore / House Plan / Home Construction / Elevation Design
 
-  
 **36 x 42 house plans/700 sq ft duplex house plan /900 sf house design /duplex house plans in 700 sq ft /1350 sq feet house plan /1800 sq ft house plan /2000 sq ft house with garden /house design 1500 sq ft /house design for 2000 sq ft /2000 sq feet house plan india /4bhk house map /duplex house design 850 sq ft 2600 sq ft house plans in india**
