@@ -21,13 +21,14 @@ tilephotos:
 - https://samasthiti-constructions.s3.ap-south-1.amazonaws.com/uploads/PIYUSH JI 15X40
   HATCHED_page-0001.jpg
 house_category: below-1000-sq-ft
+meta_title: ''
 
 ---
 **HOUSE PLAN DETAILS**
 
 The floor layout of 14’ feet 6 inches by 50’ feet was designed as a residential building. The floor plan consists of the ground floor and first floor. The ground floors have an outside staircase, a drawing area, a small bedroom for a servant or store, a kitchen with a small temple area, and a washroom. The first floor consists of 2 master bedrooms and a balcony.
 
-**Plot size -** 16 Feet x 49’ Feet 1 Inch
+**Plot size -** 14'Feet 6 inch x 50’ Feet 
 
 **Facing the plot -** West
 
@@ -35,11 +36,11 @@ The floor layout of 14’ feet 6 inches by 50’ feet was designed as a resident
 
 **Location -** INDORE (MADHYA PRADESH)
 
-**Build-up area -** 1560 Square feet
+**Build-up area -** 1600 Square feet
 
 **Type of construction -** Residential building
 
-**Estimation cost of the construction -** 21, 00,000/-
+**Estimation cost of the construction -** 22,40,000/-
 
 **Specification of the plan -**
 
