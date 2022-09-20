@@ -22,7 +22,7 @@ house_category: 2000-to-3000-sq-ft
 ---
 **HOUSE PLAN DETAILS**
 
-The floor layout of 40 feet by 56 feet was designed as a residential building. The floor plan consists of the ground floor. The ground floors have Car parking, a Living area, Kitchen with a wash area, 2 Master bedrooms, Courtyard, Temple, and a Front garden.
+The floor layout of 40 feet by 56 feet was designed as a residential building. The floor plan consists of the ground floor. The ground floors have Car parking, a Living area, Kitchen with a wash area, 1 Master bedrooms, bedroom, Courtyard, Temple, and a Front garden.
 
 **Plot size -** 40 Feet by 56 Feet
 
@@ -36,7 +36,7 @@ The floor layout of 40 feet by 56 feet was designed as a residential building. T
 
 **Type of construction -** Residential building
 
-**The estimated cost of construction -** 29,40,000 /-
+**The estimated cost of construction -** 33,60,000 /-
 
 **Specification of plan -**
 
