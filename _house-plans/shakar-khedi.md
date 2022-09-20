@@ -23,7 +23,7 @@ house_category: 1000-to-2000-sq-ft
 ---
 **HOUSE PLAN DETAILS**
 
-The floor layout of 40 feet by 40 feet is designed as a residential house. The floor planning is done in a way where the ground floor consists of 2 Masterbedrooms, Drawing area, open kitchen, temple and site-out. The first floor consist of 4 Master bedrooms and living area.
+The floor layout of 40 feet by 40 feet is designed as a residential house. The floor planning is done in a way where the ground floor consists of 2 Master bedrooms, Drawing area, open kitchen, temple and site-out. The first floor consist of 4 Master bedrooms and living area.
 
 **Plot size -** 40 Feet x 40 Feet
 
@@ -35,9 +35,9 @@ The floor layout of 40 feet by 40 feet is designed as a residential house. The f
 
 **Built-up area -** 3419 Square feet
 
-**Type of construction -**Residential
+\**Type of construction -**Residential
 
-**The estimated cost of construction -** 46,15,650/-
+**The estimated cost of construction -** 47,86,650/-
 
 **Specifications of plan -**
 
