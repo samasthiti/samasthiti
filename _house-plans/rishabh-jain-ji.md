@@ -34,9 +34,9 @@ The floor layout of 30 feet by 60 feet is designed as a semi-commercial building
 
 **Built-up area -** 4900 Square feet
 
-**Type of construction -**semi-commercial
+\**Type of construction -**semi-commercial
 
-**The estimated cost of construction -** 66,15,000/-
+**The estimated cost of construction -** 68,60,000/-
 
 **Specifications of plan -**
 
