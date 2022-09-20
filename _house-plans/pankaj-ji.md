@@ -14,6 +14,7 @@ serial_number: 7
 tilephotos:
 - https://samasthiti-constructions.s3.ap-south-1.amazonaws.com/uploads/PANKAJ JI 20X48_page-0001.jpg
 house_category: 1000-to-2000-sq-ft
+meta_title: ''
 
 ---
 **HOUSE PLAN DETAILS**
@@ -30,11 +31,11 @@ The first floor consists of one master bedroom, an open balcony with a temple ar
 
 **LOCATION -** INDORE (MADHYA PRADESH)
 
-**BUILT-UP AREA -** 1770 Square feet
+**BUILT-UP AREA -** 2070 Square feet
 
 **TYPE OF CONSTRUCTION -** Residential building
 
-**ESTIMATED COST OF CONSTRUCTION -** 23,89,000/-
+**ESTIMATED COST OF CONSTRUCTION -** 28,98,000/-
 
 **SPECIFICATION OF THE PLAN-**
 
