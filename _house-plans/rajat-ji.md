@@ -21,6 +21,7 @@ tilephotos:
 - https://samasthiti-constructions.s3.ap-south-1.amazonaws.com/uploads/Copy of Copy
   of RAJAT BHAIYA_page-0001.jpg
 house_category: below-1000-sq-ft
+meta_title: ''
 
 ---
 **HOUSE PLAN DETAILS**
@@ -39,7 +40,7 @@ The floor layout of 18 feet by 50 feet was designed as a residential building. T
 
 **Type of construction -** Residential building
 
-**The estimated cost of construction -** 12,15,000 /-
+**The estimated cost of construction -** 12,60,000 /-
 
 **Specification of plan -**
 
