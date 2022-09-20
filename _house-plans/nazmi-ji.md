@@ -46,7 +46,7 @@ Architects have utilized the area at the optimum level.
 
 **Type of construction** - Residential building.
 
-**Estimated cost of construction** - 1,35,00,000/-
+**Estimated cost of construction** - 1,40,00,000/-
 
 **Specification of the plan**-
 
