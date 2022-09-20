@@ -19,6 +19,7 @@ tilephotos:
 - https://samasthiti-constructions.s3.ap-south-1.amazonaws.com/uploads/MANISH JHA
   JI FF (1)_page-0001.jpg
 house_category: 1000-to-2000-sq-ft
+meta_title: ''
 
 ---
 **HOUSE PLAN DETAILS**
@@ -33,11 +34,11 @@ The floor layout of 20 feet by 50 feet was designed as a residential building. T
 
 **Location -** INDORE (MADHYA PRADESH)
 
-**Built-up area -** 1,000 Square feet
+**Built-up area -** 2,000 Square feet
 
 **Type of construction -** Residential building
 
-**Estimated cost of construction-** 1,350,000/-
+**Estimated cost of construction-** 28,00,000/-
 
 **Specification of the Plan-**
 
