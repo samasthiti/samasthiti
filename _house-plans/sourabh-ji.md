@@ -17,6 +17,7 @@ tilephotos:
 - https://samasthiti-constructions.s3.ap-south-1.amazonaws.com/uploads/_SOURABH JI
   PLAN Model_page-0001.jpg
 house_category: 1000-to-2000-sq-ft
+meta_title: ''
 
 ---
 **HOUSE PLAN DETAILS**
@@ -35,7 +36,7 @@ The floor layout of 20 feet by 50 feet was designed as a Semi commercial buildin
 
 **Type of construction -** Semi-commercial building
 
-**Estimated cost of construction -** 29,00,000/-
+**Estimated cost of construction -** 30,00,000/-
 
 **Specification of the plan -**
 
