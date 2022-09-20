@@ -26,7 +26,7 @@ The floor layout of 30 feet by 35 feet was designed as a residential building. T
 
 **Plot size -** 30 Feet by 35 Feet
 
-**Facing of the plot -** North
+**Facing of the plot -** South
 
 **Number of floors -** 3
 
@@ -36,7 +36,7 @@ The floor layout of 30 feet by 35 feet was designed as a residential building. T
 
 **Type of construction -** Residential building
 
-**The estimated cost of construction -** 46,37,250/-
+**The estimated cost of construction -** 48,00,000/-
 
 **Specification of plan -**
 
@@ -52,5 +52,4 @@ Your Trusted Home Partner Samasthiti Constructions Pvt Ltd / Architects In Indor
 
 ***
 
-  
 **2000 square feet house design india/ building plan in 1200 square feet/home design for 1200 sq feet /home design in 2000 square feet /home design in 700 square feet / 1400 square feet house plan/ house in 1100 sq ft/1000sqft home design /6 bhk plan / /house design in 650 square feet /1500sqft house**
