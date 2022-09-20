@@ -16,25 +16,26 @@ serial_number: 6
 tilephotos:
 - https://samasthiti-constructions.s3.ap-south-1.amazonaws.com/uploads/NILESH JI-19X45Model_page-0001.jpg
 house_category: 1000-to-2000-sq-ft
+meta_title: ''
 
 ---
 **HOUSE PLAN DETAILS**
 
 The floor layout of 19 feet 2 inches by 44 feet 3 inches was designed as a residential building. The ground floor plan consists of a parking area, a drawing room with a dining area, a kitchen with a wash area, one bedroom attached washroom, and an inside staircase. The first floor consists of two master bedrooms with an open balcony and a temple area.
 
-**Plot size -** 19 Feet 2 inch x 48 Feet 3 inch
+**Plot size -** 19 Feet 2 inch x 44 Feet 3 inch
 
-**Facing of the plot -** West
+**Facing of the plot -** East
 
 **Number of floors -** 2
 
 **Location -** INDORE (MADHYA PRADESH)
 
-**Built-up area-** 1100 Square feet
+**Built-up area-** 1820 Square feet
 
 **Type of construction -** Residential building.
 
-**Estimated cost of construction -** 27,00,000/-
+**Estimated cost of construction -** 25,50,000/-
 
 **Specification of the plan-**
 
