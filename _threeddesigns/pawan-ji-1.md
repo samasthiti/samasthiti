@@ -13,10 +13,14 @@ pagetopic: 750 sq ft house, house 650 square feet
 author: Samasthiti Constructions Pvt Ltd
 robots: ''
 heading: PAWAN JI
-banner_image: https://samasthiti-constructions.s3.ap-south-1.amazonaws.com/uploads/pawn
-  saraswat ji (1) (1).jpeg
+banner_image: https://samasthiti-constructions.s3.ap-south-1.amazonaws.com/uploads/WhatsApp
+  Image 2022-08-19 at 6.33.01 PM.jpeg
 serial_number: 21
 tilephotos:
+- https://samasthiti-constructions.s3.ap-south-1.amazonaws.com/uploads/WhatsApp Image
+  2022-08-19 at 6.33.01 PM.jpeg
+- https://samasthiti-constructions.s3.ap-south-1.amazonaws.com/uploads/WhatsApp Image
+  2022-08-19 at 6.33.00 PM.jpeg
 - https://samasthiti-constructions.s3.ap-south-1.amazonaws.com/uploads/pawn saraswat
   ji (1) (1).jpeg
 house_category: 1000-to-2000-sq-ft
