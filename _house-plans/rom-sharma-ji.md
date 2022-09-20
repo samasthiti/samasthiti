@@ -16,6 +16,7 @@ tilephotos:
 - https://samasthiti-constructions.s3.ap-south-1.amazonaws.com/uploads/PLAN(ROM SHARMA)
   (1)-Model_page-0001.jpg
 house_category: 1000-to-2000-sq-ft
+meta_title: ''
 
 ---
 **HOUSE PLAN DETAILS**
@@ -38,7 +39,7 @@ On the second floor there is a class room with a cabin and a common washroom, an
 
 **Type of construction -** Residential building
 
-**Estimated cost of construction -** 40,50,000/-
+**Estimated cost of construction -** 42,00,000/-
 
 **Specification of the plan -**
 
