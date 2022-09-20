@@ -22,9 +22,9 @@ house_category: 2000-to-3000-sq-ft
 ---
 **HOUSE PLAN DETAILS**
 
-The floor layout of 48 feet by 60 feet was designed as a residential building. The floor planning is done in a way where the ground floor is consist of a hall with a hall, living and other things divided into two parts guest room, bedroom with washroom, kitchen, storeroom staircase in provided inner and outer both one. Architects have utilized the area at an optimum level.
+The floor layout of 43 feet 8 inch by 60 feet was designed as a residential building. The floor planning is done in a way where the ground floor is consist of a hall with a hall, living and other things divided into two parts guest room, bedroom with washroom, kitchen, storeroom staircase in provided inner and outer both one. Architects have utilized the area at an optimum level.
 
-**Plot size -** 48 Feet x 60 Feet
+**Plot size -** 43 Feet 8 inch x 60 Feet
 
 **Facing of the plot -** East
 
@@ -32,11 +32,11 @@ The floor layout of 48 feet by 60 feet was designed as a residential building. T
 
 **Location -** INDORE (MADHYA PRADESH)
 
-**Built-up area -** 2880 Square feet
+**Built-up area -** 2680 Square feet
 
 **Type of construction -** Residential building
 
-**Estimated cost of construction -** 3,888,000 /-
+**Estimated cost of construction -** 37,58,000 /-
 
 **Specification of the Plan-**
 
