@@ -36,7 +36,7 @@ The floor layout of 30 feet by 50 feet was designed as a residential building. T
 
 **Type of construction -** Residential building
 
-**The estimated cost of construction - is** 22,95,000/-
+**The estimated cost of construction - is** 37,80,000/-
 
 **Specification of plan -**
 
@@ -50,5 +50,5 @@ The floor layout of 30 feet by 50 feet was designed as a residential building. T
 
 Your Trusted Home Partner Samasthiti Constructions Pvt Ltd / Architects In Indore / Interior Designer In Indore / Construction Companies In Indore / House Plan / Home Construction / Elevation Design
 
-**  
+\**  
 house plan design for 1200 sq ft/1500 sq ft villa design /1500 square feet home design /2000 sq ft house plans with garden /2400 sqft house plan /triplex house design india /1700 sq ft house design /2000 sq ft house plans 2 floor / 1400 sq feet house plan/1800 sq feet house plan / 4bhk map/1050 square feet home design**
