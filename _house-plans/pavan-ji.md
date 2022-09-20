@@ -36,7 +36,7 @@ The floor layout of 30 feet by 50 feet was designed as a residential building. T
 
 **Type of construction -** Residential building
 
-**The estimated cost of construction - is** 40,50,000/-
+**The estimated cost of construction - is** 42,00,000/-
 
 **Specification of plan -** a drawing room, a bedroom, an open kitchen with dining/living, a temple, a common washroom, a store room, parking, and a staircase.
 
