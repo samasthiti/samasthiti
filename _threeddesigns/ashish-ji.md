@@ -1,7 +1,8 @@
 ---
 title: ASHISH JI
 meta_title: plan for 750 square feet house, 2400 sq feet house design
-description: ''
+description: 'Working on latest technology. Most trustworthy team for house c& building
+  construction '
 keywords: plan for 750 square feet house/2400 sq feet house design/best house plan
   for 800 sq ft/1250 square feet house/2400 sq ft house plans 3 bedroom/duplex house
   design 1800 sq ft/home 700 square feet/india duplex house plans/map 1000 sq ft home/1250
