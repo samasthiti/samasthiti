@@ -21,6 +21,7 @@ tilephotos:
 - https://samasthiti-constructions.s3.ap-south-1.amazonaws.com/uploads/sachin jain
   ji 15X42  (1)-Model (1)_page-0001.jpg
 house_category: below-1000-sq-ft
+meta_title: ''
 
 ---
 **HOUSE PLAN DETAILS**
@@ -39,7 +40,7 @@ The floor layout of 15’ feet by 43’ feet was designed as a residential build
 
 **Type of construction -** Residential building
 
-**Estimation cost of the construction -** 28, 00,000/-
+**Estimation cost of the construction -** 29, 40,000/-
 
 **Specification of the plan -**
 
@@ -53,7 +54,7 @@ The floor layout of 15’ feet by 43’ feet was designed as a residential build
 
 ***
 
-Our drawings and design would decide your home construction investment how it would be. Choose your construction and design partner wisely for the optimum level of accuracy and make sure all the necessary standards are followed on the site. 
+Our drawings and design would decide your home construction investment how it would be. Choose your construction and design partner wisely for the optimum level of accuracy and make sure all the necessary standards are followed on the site.
 
 **“INVEST IN US TO MAKE YOUR INVESTMENT BETTER”**
 
