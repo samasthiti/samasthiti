@@ -26,7 +26,7 @@ The floor layout of 40 feet by 70 feet was designed as a residential building. T
 
 **Plot size -** 40 Feet by 70 Feet
 
-**Facing of the plot -** North-West
+**Facing of the plot -** South
 
 **Number of floors -** 1
 
