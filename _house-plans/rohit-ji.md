@@ -21,11 +21,12 @@ tilephotos:
 - https://samasthiti-constructions.s3.ap-south-1.amazonaws.com/uploads/Copy of ROHIT
   JI_page-0001.jpg
 house_category: below-1000-sq-ft
+meta_title: ''
 
 ---
 **HOUSE PLAN DETAILS**
 
-The floor layout of 15 feet by 50 feet was designed as a residential building. The floor plan consists of the ground floor and first floor. The ground floors have two-wheeler parking, a drawing area, an open kitchen, and a common washroom. The first floor consists of a 2 Bhk floor plan of 2 bedrooms one has an attached bathroom.
+The floor layout of 15 feet by 50 feet was designed as a residential building. The floor plan consists of the ground floor and first floor. The ground floors have Shop, Living area, common washroom, kitchen and a master bedroom. The first floor consists of  2 bedroom with attached kitchen and washroom
 
 **Plot size-** 15 Feet x 50 Feet
 
@@ -35,17 +36,17 @@ The floor layout of 15 feet by 50 feet was designed as a residential building. T
 
 **Location** **-** INDORE (MADHYA PRADESH)
 
-**Build-up area -** 1500 Square feet
+**Build-up area -** 1650 Square feet
 
 **Type of construction -** Residential building
 
-**The estimated cost of construction -** 22, 27,500/-
+**The estimated cost of construction -** 23,10,500/-
 
 **Specification of the plan** -
 
-**Ground floor**: Parking, drawing room, kitchen, and a small temple, common bathroom.
+**Ground floor**: Shop, Living area, common washroom, kitchen and a master bedroom
 
-**floor**: 2 bedrooms, balcony, and small lobby.
+**First floor**: 2 bedroom with attached kitchen and washroom
 
 **Second floor**: staircase tower room.
 
