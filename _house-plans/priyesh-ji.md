@@ -22,9 +22,9 @@ house_category: 2000-to-3000-sq-ft
 ---
 **HOUSE PLAN DETAILS**
 
-The floor layout of 40 feet by 60 feet was designed as a residential building. The floor plan consists of the ground floor. The ground floors have three shops, a drawing room, a kitchen, a wash area, a lift area, a porch, three bedrooms, a dining room, a living room, a four-wheeler parking, and a staircase.
+The floor layout of 40 feet by 70 feet was designed as a residential building. The floor plan consists of the ground floor. The ground floors have three shops, a drawing room, a kitchen, a wash area, a lift area, a porch, three bedrooms, a dining room, a living room, a four-wheeler parking, and a staircase.
 
-**Plot size -** 40 Feet by 60 Feet
+**Plot size -** 40 Feet by 70 Feet
 
 **Facing of the plot -** North-West
 
@@ -32,11 +32,11 @@ The floor layout of 40 feet by 60 feet was designed as a residential building. T
 
 **Location -** INDORE (MADHYA PRADESH)
 
-**Built-up area -** 2400 Square feet
+**Built-up area -** 2800 Square feet
 
 **Type of construction -** Residential building
 
-**The estimated cost of construction -** 32,40,000/-
+**The estimated cost of construction -** 39,20,000/-
 
 **Specification of plan -**
 
