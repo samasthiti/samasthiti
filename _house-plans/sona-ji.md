@@ -21,6 +21,7 @@ tilephotos:
 - https://samasthiti-constructions.s3.ap-south-1.amazonaws.com/uploads/Copy of SONA
   JI_page-0001.jpg
 house_category: below-1000-sq-ft
+meta_title: ''
 
 ---
 **HOUSE PLAN DETAILS**
@@ -29,9 +30,9 @@ The floor layout of 16 feet by 50 feet was designed as a residential building. T
 
 **Plot size -** 16 Feet by 50 Feet
 
-**Facing of the plot -** North
+**Facing of the plot -** South
 
-**Number of floors - 2**
+**Number of floors - 1**
 
 **Location -** INDORE (MADHYA PRADESH)
 
@@ -43,7 +44,7 @@ The floor layout of 16 feet by 50 feet was designed as a residential building. T
 
 **Specification of plan -**
 
-**Ground floor:** a kitchen, a drawing room, a bathroom, a master bedroom with an attached bathroom, parking, a porch, and a staircase.
+**Ground floor:** a kitchen, a drawing room, a bathroom, a bedroom, a master bedroom with an attached bathroom, parking, a porch, and a staircase.
 
 **First floor:** Staircase tower room.
 
