@@ -28,13 +28,13 @@ house_category: 4000-to-5000-sq-ft
 ---
 **HOUSE PLAN DETAILS**
 
-The floor layout of 42 feet by 100 feet was designed as a Residential building. The floor planning is done in a way where a large parking area is provided on the ground floor. It starts with a grand double heightened entrance, the floor also consists of a step-downed drawing room and a large double heightened living area with an open kitchen and dining area and a common washroom, near to that a store room and a wash area. It has two master bedrooms attached with a dresser and washroom, the ground floor also has an open lawn area.
+The floor layout of 45 feet by 100 feet was designed as a Residential building. The floor planning is done in a way where a large parking area is provided on the ground floor. It starts with a grand double heightened entrance, the floor also consists of a step-downed drawing room and a large double heightened living area with an open kitchen and dining area and a common washroom, near to that a store room and a wash area. It has two master bedrooms attached with a dresser and washroom, the ground floor also has an open lawn area.
 
 The first floor consists of two master bedrooms with attached balconies and a dressing and a washroom. It also consists of one temple area, a sitting area, and a large open terrace.
 
 Architects have utilized the area at the optimum level.
 
-**Plot size -** 42 Feet x 100 Feet
+**Plot size -** 45 Feet x 100 Feet
 
 **Facing of the plot -** East
 
@@ -42,11 +42,11 @@ Architects have utilized the area at the optimum level.
 
 **Location-** INDORE (MADHYA PRADESH)
 
-**Built-up area -** 6500 Square feet
+**Built-up area -** 9000 Square feet
 
 **Type of construction -** Residential building.
 
-**Estimated cost of construction -** 87,75,000/-
+**Estimated cost of construction -** 1,26,00,000/-
 
 **Specification of the plan-**
 
