@@ -30,11 +30,11 @@ The floor layout of 30 feet by 50 feet was designed as a residential building. T
 
 **Location -** INDORE (MADHYA PRADESH)
 
-**Built-up area -** 5500 Square feet
+**Built-up area -** 6150 Square feet
 
 **Type of construction -** Residential building
 
-**The estimated cost of construction -** 74,25,000 /-
+**The estimated cost of construction -** 86,00,000 /-
 
 **Specification of plan -**
 
@@ -51,5 +51,4 @@ The floor layout of 30 feet by 50 feet was designed as a residential building. T
 
 Your Trusted Home Partner Samasthiti Constructions Pvt Ltd / Architects In Indore / Interior Designer In Indore / Construction Companies In Indore / House Plan / Home Construction / Elevation Design
 
-  
 **5 bhk house design/ 700 sq ft bungalow design/house plan in 900 square feet /1700 square feet house plan /1800sq ft / 900 square feet home design/ home design for 1500 sq feet/1000 sq feet house /1350 sq ft house plan with car parking /1500 sq feet house plan / 700 square feet house plan 3d/best house design in 1200 sq ft**
