@@ -34,7 +34,7 @@ The floor layout of 24 feet by 60 feet was designed as a residential building. T
 
 **Type of construction -** Residential building
 
-**The estimated cost of construction -** 51,30,000 /-
+**The estimated cost of construction -** 53,20,000 /-
 
 **Specification of plan -**
 
@@ -48,5 +48,5 @@ The floor layout of 24 feet by 60 feet was designed as a residential building. T
 
 Your Trusted Home Partner Samasthiti Constructions Pvt Ltd / Architects In Indore / Interior Designer In Indore / Construction Companies In Indore / House Plan / Home Construction / Elevation Design
 
-**  
+\**  
 1400 sq feet home design/design for 1200 square feet house /1050 square feet /20x60 front elevation designs /house design for 1300 square feet /house design 900 square feet /house design in 1400 square feet /5 bhk villa plan /house plan in 2400 sq ft plot /1750 square feet house design /2550 sq ft house plans /best home design in 1000 square feet**
