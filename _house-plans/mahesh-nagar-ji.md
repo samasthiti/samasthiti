@@ -21,13 +21,14 @@ tilephotos:
 - https://samasthiti-constructions.s3.ap-south-1.amazonaws.com/uploads/PLAN(mahesh
   nagar ji)15X52  FINAL-Model_page-0001.jpg
 house_category: below-1000-sq-ft
+meta_title: ''
 
 ---
 **HOUSE PLAN DETAILS**
 
-The floor layout of 15’ feet by 50’ feet was designed as a residential building. The floor plan consists of the ground floor and first floor. The ground floors have an outside staircase, a drawing room, Kitchen with an open-to-the-sky wash area, and a master bedroom. The first floor consists of one master bedroom with an attached bathroom and balcony.
+The floor layout of 15’ feet by 52’ feet was designed as a residential building. The floor plan consists of the ground floor and first floor. The ground floors have an outside staircase, a drawing room, Kitchen with an open-to-the-sky wash area, and a master bedroom. The first floor consists of one master bedroom with an attached bathroom and balcony.
 
-**Plot size -** 15 Feet x 50 Feet
+**Plot size -** 15 Feet x 52 Feet
 
 **Facing the plot -** West
 
