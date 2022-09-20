@@ -28,7 +28,7 @@ The floor layout of 50 feet by 80 feet was designed as a semi-commercial buildin
 
 **Facing of the plot -** North
 
-**Number of floors -** 02
+**Number of floors -** 01
 
 **Location -** INDORE (MADHYA PRADESH)
 
@@ -36,13 +36,11 @@ The floor layout of 50 feet by 80 feet was designed as a semi-commercial buildin
 
 **Type of construction -** Residential building
 
-**Estimated cost of construction-** 5,400,000/-
+**Estimated cost of construction-** 56,00,000/-
 
-**Specification of the Plan-**
+**Specification of the Plan**
 
 **Ground Floor:** Parking, Lifted Garden, 2 Offices, Pantry, 2 Room, Guest Lounge, 2 stores, and washroom.
-
-**First Floor:** Living, Kitchen, Dining, Temple, 4 Master Bedroom, Storeroom, and Balcony
 
 **“INVEST IN US TO MAKE YOUR INVESTMENT BETTER”**
 
