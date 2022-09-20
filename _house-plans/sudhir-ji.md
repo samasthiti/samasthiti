@@ -20,9 +20,9 @@ house_category: 1000-to-2000-sq-ft
 ---
 **HOUSE PLAN DETAILS**
 
-The floor layout of 20 feet by 60 feet was designed as a residential building. The floor plan consists of the ground floor. The ground floors have a drawing-room, a kitchen, a dining area, a common bathroom, a master bedroom, and a bedroom, a four-wheeler parking, a garden area, and a staircase.
+The floor layout of 20 feet by 65 feet was designed as a residential building. The floor plan consists of the ground floor. The ground floors have a drawing-room, a kitchen, a dining area, a common bathroom, a master bedroom, and a bedroom, a four-wheeler parking, a garden area, and a staircase.
 
-**Plot size -** 20 Feet by 60 Feet
+**Plot size -** 20 Feet by 65 Feet
 
 **Facing of the plot -** East
 
@@ -34,7 +34,7 @@ The floor layout of 20 feet by 60 feet was designed as a residential building. T
 
 **Type of construction -** Residential building
 
-**The estimated cost of construction -** 17,55,000 /-
+**The estimated cost of construction -** 18,20,000 /-
 
 **Specification of plan -**
 
