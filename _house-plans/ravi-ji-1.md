@@ -21,15 +21,16 @@ tilephotos:
 - https://samasthiti-constructions.s3.ap-south-1.amazonaws.com/uploads/Copy of Copy
   of RAVI PAWA JI_page-0001.jpg
 house_category: below-1000-sq-ft
+meta_title: ''
 
 ---
 **HOUSE PLAN DETAILS**
 
-The floor layout of 20 feet by 45 feet is designed as a residential house. The floor planning is done in a way where the ground floor consists of grand car parking, drawing room, kitchen, one bedroom with attached washroom, wash area, dining area, common washroom, and garden in front. The first floor consists of two master bedrooms with an attached dresser and washroom and balcony in front.
+The floor layout of 20 feet by 50 feet is designed as a residential house. The floor planning is done in a way where the ground floor consists of grand car parking, drawing room, kitchen, one bedroom with attached washroom, wash area, dining area, common washroom, and garden in front. The first floor consists of two master bedrooms with an attached dresser and washroom and balcony in front.
 
-**Plot size -** 20 Feet x 45 Feet
+**Plot size -** 20 Feet x 50 Feet
 
-**Facing of the plot -**west
+Facing of the plot -west
 
 **Number of floors -** 2
 
@@ -37,9 +38,9 @@ The floor layout of 20 feet by 45 feet is designed as a residential house. The f
 
 **Built-up area -** 1800 Square feet
 
-**Type of construction -**Residential
+\**Type of construction -**Residential
 
-**The estimated cost of construction -** is 24,30,000/-
+**The estimated cost of construction -** is 25,30,000/-
 
 **Specifications of plan -**
 
