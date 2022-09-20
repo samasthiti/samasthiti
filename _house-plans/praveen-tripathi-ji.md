@@ -35,7 +35,7 @@ The floor layout of 34 feet by 40 feet is designed as a residential house. The f
 
 **Type of construction -** residential
 
-**The estimated cost of construction -** 37,80,000/-
+**The estimated cost of construction -** 39,20,000/-
 
 **Specifications of plan -**
 
@@ -49,5 +49,5 @@ The floor layout of 34 feet by 40 feet is designed as a residential house. The f
 
 Our drawings and design would decide your home construction investment how it would be. Choose your construction and design partner wisely for the optimum level of accuracy and make sure all the necessary standards are followed on the site.
 
-**  
+\**  
 3d home plans and designs /buy home plans /house model elevation designs /make 3d house plan online /readymade house plan /house map planner /houese design plans free /home design plans online free /3d bungalow plan / 3d home design for small house/front elevation of building design /structure design for home**
