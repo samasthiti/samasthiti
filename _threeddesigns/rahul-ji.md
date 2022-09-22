@@ -26,7 +26,7 @@ house_category: 1000-to-2000-sq-ft
 ---
 **FACADE ELEVATION DETAILS:**
 
-The house is of dimensions 25 feet by 50 feet which is ground, first floor, and tower room only. The house was designed in modern style at a budget of 2,00,000/-.The elevation contains grey textured Brick tile, shera wall, an Acrylic CNC cut panels, with a projected beam of 30 feet with British Grey color tone, MS panel gate at the front, and MS panels given at the terrace, the balcony given at the front with glass panels, given with ambient light for the aesthetic purposes.
+The house is of dimensions 25 feet by 50 feet which is ground, first floor, and tower room only. The elevation house was designed in modern style at a budget of 1,00,000/-.The elevation contains grey textured Brick tile, shera wall, an Acrylic CNC cut panels, with a projected beam of 30 feet with British Grey color tone, MS panel gate at the front, and MS panels given at the terrace, the balcony given at the front with glass panels, given with ambient light for the aesthetic purposes.
 
 **Plot size -** 25 Feet x 50 Feet
 
@@ -36,7 +36,6 @@ The house is of dimensions 25 feet by 50 feet which is ground, first floor, and 
 
 **Location -** INDORE (MADHYA PRADESH)
 
-  
 **Type of building -** Residential building
 
 **Material specification -** M.S. panels, glass panels, finished concrete, and Acrylic CNC cut panel
