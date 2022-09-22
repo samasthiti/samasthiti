@@ -26,7 +26,7 @@ house_category: below-1000-sq-ft
 ---
 **FACADE ELEVATION:**
 
-The house is of dimension 18 feet by 50 feet which is ground, first-floor having tower room only. The house was designed in modern style at an economical budget of 100,000/-.
+The house is of dimension 18 feet by 50 feet which is ground, first-floor having tower room only. The house elevation was designed in modern style at an economical budget of 1,00,000/-
 
 **Plot size -** 18 Feet x 50 Feet
 
@@ -38,9 +38,8 @@ The house is of dimension 18 feet by 50 feet which is ground, first-floor having
 
 **Type of building -** Residential building
 
-**Material specification -** RCC work, Wooden tiles, Wooden pop, and MS louvers. 
+**Material specification -** RCC work, Wooden tiles, Wooden pop, and MS louvers.
 
-  
 **“INVEST IN US TO MAKE YOUR INVESTMENT BETTER”**
 
 Offering You With All The Solutions From Designing To The Construction Of Your Home. We Have The Best Team Of Engineers, Interior Designers, Civil Contractors, And Architects In Indore. Start Your Home Construction With Our Expertise In It.
