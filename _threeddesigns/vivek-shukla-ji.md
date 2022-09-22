@@ -25,6 +25,8 @@ house_category: 1000-to-2000-sq-ft
 ---
 **FACADE ELEVATION:**
 
+ 
+
 The house is of dimension 30 feet by 35 feet which is ground, first floor, and terrace floor having tower room only. The house was designed in modern style at a budget of 2,25,000/-.The Corner elevation contains a balcony having a glass railing. The material used on both sides of Brick cladding and stone cladding, Acrylic CNC cut on the staircase side for welcoming the sunlight and creating interesting shadows. And on the other side, there is a projected planter box that is high lighting the balcony, and the house have two main entrance for car parking on the front side of the elevation. Which is made of M.S. and coated with wooden texture.
 
 **Plot size -** 30 Feet x 35 Feet
