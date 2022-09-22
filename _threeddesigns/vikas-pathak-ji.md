@@ -51,7 +51,7 @@ The house is of dimension 50 feet by 60 feet which is ground, first floor, and t
 
 **Built-up area -** 3,000 Square feet
 
-**Type of construction -** Commercial building
+**Type of construction -** residential building
 
 **Estimated cost of elevation -** 2,00,000 /-
 
