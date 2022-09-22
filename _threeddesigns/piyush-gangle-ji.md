@@ -24,7 +24,7 @@ house_category: 1000-to-2000-sq-ft
 ---
 **FACADE ELEVATION DETAILS:**
 
-The house is of dimensions 20 feet by 50 feet which is ground, first floor, second floor, and tower room only. The house was designed in modern style at a budget of 2,00,000/-.The elevation contains for the grand royal look we have used a big chamfer at the front, we have used pergola at the right top side of the elevation, we have given wooden false ceiling at the lobby, an MS panel has been used at the main door, we have given chamfer window at the second floor, we have given planter in front roadside, we have given glass railing at parapet wall, we have given strip lights on the chamfer, and stepped entrance.
+The house is of dimensions 20 feet by 50 feet which is ground, first floor, second floor, and tower room only. The house elevation was designed in modern style at a budget of 2,00,000/-.The elevation contains for the grand royal look we have used a big chamfer at the front, we have used pergola at the right top side of the elevation, we have given wooden false ceiling at the lobby, an MS panel has been used at the main door, we have given chamfer window at the second floor, we have given planter in front roadside, we have given glass railing at parapet wall, we have given strip lights on the chamfer, and stepped entrance.
 
 **Plot size -** 20 Feet x 50 Feet
 
