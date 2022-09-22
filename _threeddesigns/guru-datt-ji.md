@@ -22,7 +22,7 @@ house_category: 4000-to-5000-sq-ft
 ---
 **FACADE ELEVATION:**
 
-The house is of dimension 50 feet by 100 feet which is ground, first floor, and terrace floor having tower room only. The house was designed in ultra-modern European style at a budget of 4,00,000/-.The elevation has Single monotonous color played with the cubic void with subtraction and addition in the form with creating pleasant appeal to the elevation and a balcony with a glass railing having a project planter box and an RCC Double height Terrace balcony with a glass railing making a grant entrance which creates an aesthetic elevation with full height main door
+The house is of dimension 50 feet by 100 feet which is ground, first floor, and terrace floor having tower room only. The house elevation was designed in ultra-modern European style at a budget of 4,00,000/-.The elevation has Single monotonous color played with the cubic void with subtraction and addition in the form with creating pleasant appeal to the elevation and a balcony with a glass railing having a project planter box and an RCC Double height Terrace balcony with a glass railing making a grant entrance which creates an aesthetic elevation with full height main door
 
 **Plot size -** 50 Feet x 100 Feet
 
