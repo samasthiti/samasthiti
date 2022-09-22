@@ -28,7 +28,7 @@ house_category: 2000-to-3000-sq-ft
 ---
 **FACADE ELEVATION DETAILS:**
 
-The house is of dimensions 40 feet by 60 feet which is ground, first-floor second floor, and tower room only. The house was designed in modern style at a budget of 3,25,000/-. The elevation contains an acrylic CNC cut and a chamfered opening having a sliding door and windows also a stepped balcony and the projected wall of size 30 feet which is tapered from the end having two main entrances 1 main entrance and a second service entrance. The main entrance has a sliding gate with a CNC cut. And the material used is concrete finished with unfinished texture and for aesthetic purposes, the ambient lights were given.
+The house is of dimensions 40 feet by 60 feet which is ground, first-floor second floor, and tower room only. The house elevation was designed in modern style at a budget of 3,25,000/-. The elevation contains an acrylic CNC cut and a chamfered opening having a sliding door and windows also a stepped balcony and the projected wall of size 30 feet which is tapered from the end having two main entrances 1 main entrance and a second service entrance. The main entrance has a sliding gate with a CNC cut. And the material used is concrete finished with unfinished texture and for aesthetic purposes, the ambient lights were given.
 
 **Plot size -** 40 Feet x 60 Feet
 
@@ -40,7 +40,7 @@ The house is of dimensions 40 feet by 60 feet which is ground, first-floor secon
 
 **Type of building -** Residential building
 
-**Material specification -** M.S. Panels, Concrete unfinished texture, and Acrylic Cnc cut panel
+**Material specification -** M.S. Panels, Concrete unfinished texture, and Acrylic Cnc cut panel, tile work
 
 **“INVEST IN US TO MAKE YOUR INVESTMENT BETTER”**
 
