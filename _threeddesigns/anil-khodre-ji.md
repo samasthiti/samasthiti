@@ -25,7 +25,7 @@ house_category: 1000-to-2000-sq-ft
 ---
 **FACADE ELEVATION:**
 
-The house is of dimension 25 feet by 50 feet which is ground, first-floor having tower room only. The house was designed in modern style at an economical budget of 15,00,00/-.
+The house is of dimension 25 feet by 50 feet which is ground, first-floor having tower room only. The house was designed in modern style at an economical budget of elevation is 1,50,000/-.
 
 **Plot size -** 25 Feet x 50 Feet
 
