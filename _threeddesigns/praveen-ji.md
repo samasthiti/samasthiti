@@ -31,7 +31,7 @@ house_category: 1000-to-2000-sq-ft
 ---
 **FACADE ELEVATION DETAILS:**
 
-The house is of dimensions 23 feet by 55 feet which is the ground, first floor, and tower room. The house was designed in modern style at a budget of 2,00,000/-.The elevation contains we have given a wooden door, fixed glass at the staircase portion, we have given wooden pattern tiles at the front, we have given rafters from the first floor to terrace at the balcony, we have given glass railing at the balcony, we have given double-panel wooden door at the front.
+The house is of dimensions 23 feet by 55 feet which is the ground, first floor, and tower room. The house elevation was designed in modern style at a budget of 2,00,000/-.The elevation contains we have given a wooden door, fixed glass at the staircase portion, we have given wooden pattern tiles at the front, we have given rafters from the first floor to terrace at the balcony, we have given glass railing at the balcony, we have given double-panel wooden door at the front.
 
 **Plot size -** 23 Feet x 55 Feet
 
@@ -45,7 +45,6 @@ The house is of dimensions 23 feet by 55 feet which is the ground, first floor, 
 
 **Material specification -** Wooden tiles, glass panels, MS panels, rafters, lights.
 
-  
 **“INVEST IN US TO MAKE YOUR INVESTMENT BETTER”**
 
 Offering You With All The Solutions From Designing To The Construction Of Your Home. We Have The Best Team Of Engineers, Interior Designers, Civil Contractors, And Architects In Indore. Start Your Home Construction With Our Expertise In It.
