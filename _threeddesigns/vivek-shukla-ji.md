@@ -16,8 +16,6 @@ banner_image: https://samasthiti-constructions.s3.ap-south-1.amazonaws.com/uploa
   of F123.jpg
 serial_number: 4
 tilephotos:
-- https://samasthiti-constructions.s3.ap-south-1.amazonaws.com/uploads/khushi option
-  1..jpg
 - https://samasthiti-constructions.s3.ap-south-1.amazonaws.com/uploads/Copy of F234.jpg
 - https://samasthiti-constructions.s3.ap-south-1.amazonaws.com/uploads/Copy of F123.jpg
 house_category: 1000-to-2000-sq-ft
