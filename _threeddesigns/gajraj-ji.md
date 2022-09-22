@@ -34,11 +34,10 @@ The house is of dimension 20 feet by 50 feet which is ground and first-floor tow
 
 **Type of building -** Residential building
 
-**Material specification -** Glass railing, Wooden pop, Elevation tiles, and wooden planks.
+**Material specification -** Glass railing, tiles, Wooden pop, Elevation tiles, and wooden planks.
 
 **“INVEST IN US TO MAKE YOUR INVESTMENT BETTER”**
 
 Offering You With All The Solutions From Designing To The Construction Of Your Home. We Have The Best Team Of Engineers, Interior Designers, Civil Contractors, And Architects In Indore. Start Your Home Construction With Our Expertise In It.**“**
 
-  
 **house plan design for 800 sq ft/low cost 750 sq ft house plans/1200 sq ft villa/2000 sq ft villa/25x40 house/700 sf house plans/duplex house layout plan/duplex villa house plans/home 1000 sq ft/rental house plans with photos/6 room house design/floor plan for 500 sq ft house**
