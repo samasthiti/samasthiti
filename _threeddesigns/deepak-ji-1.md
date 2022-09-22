@@ -26,7 +26,7 @@ house_category: 1000-to-2000-sq-ft
 ---
 **FACADE ELEVATION DETAILS:**
 
-The house is of dimensions 25 feet by 50 feet which is ground, first floor, second floor, and tower room only. The house was designed in modern style at a budget of 3,25,000/-. 
+The house is of dimensions 25 feet by 50 feet which is ground, first floor, second floor, and tower room only. The house was designed in modern style at a budget of 3,25,000/-.
 
 **Facing of the plot -** East
 
@@ -36,7 +36,7 @@ The house is of dimensions 25 feet by 50 feet which is ground, first floor, seco
 
 **Type of building -** Residential building
 
-**Material specification -** Glass railing, Glass mirrors, Wooden planks, and wooden pop with profile light. 
+**Material specification -** Glass railing, tiling work, Glass mirrors, Wooden planks, and wooden pop with profile light.
 
 **“INVEST IN US TO MAKE YOUR INVESTMENT BETTER”**
 
