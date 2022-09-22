@@ -29,7 +29,7 @@ house_category: 1000-to-2000-sq-ft
 ---
 **FACADE ELEVATION DETAILS:**
 
-The house is of dimensions 20 feet by 50 feet which is ground, first floor, second floor, and tower room only. The house was designed in modern style at a budget of 1,00,000/-.
+The house is of dimensions 20 feet by 50 feet which is ground, first floor, second floor, and tower room only. The house elevation was designed in modern style at a budget of 1,00,000/-.
 
 **Plot size -** 20 Feet x 50 Feet
 
@@ -43,10 +43,8 @@ The house is of dimensions 20 feet by 50 feet which is ground, first floor, seco
 
 **Material specification -** grey tiles, glass panels, strip lights, MS panels, plywood.
 
-  
 **“INVEST IN US TO MAKE YOUR INVESTMENT BETTER”**
 
 Offering You With All The Solutions From Designing To The Construction Of Your Home. We Have The Best Team Of Engineers, Interior Designers, Civil Contractors, And Architects In Indore. Start Your Home Construction With Our Expertise In It.
 
-  
 **designer plans/house map design 3d online free /house elevation design app /home design and layout /free house floor plan / free architectural plans/ civil drawing house plans/ houses plans and designs free/build my house plans /house layout design online /house plan with dimensions /2d house plans architecture /buy house designs**
