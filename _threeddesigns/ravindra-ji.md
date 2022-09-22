@@ -24,7 +24,7 @@ house_category: 1000-to-2000-sq-ft
 ---
 **FACADE ELEVATION DETAILS:**
 
-The house is of dimensions 30 feet by 50 feet which is ground, first floor, second floor, and tower room only. The house was designed in modern style at a budget of 1,50,000/-.The elevation contains we have given alternate planters at the front in the ground, first and terrace, we have given glass railing at the balcony, we have given the main gate of wooden and MS panels, we have given french windows at the front, we have given wall mount lights at each floor, we have given both stepped and slope entrance, we have used wooden false ceiling at both floors.
+The house is of dimensions 30 feet by 50 feet which is ground, first floor, second floor, and tower room only. The house elevation was designed in modern style at a budget of 1,50,000/-.The elevation contains we have given alternate planters at the front in the ground, first and terrace, we have given glass railing at the balcony, we have given the main gate of wooden and MS panels, we have given french windows at the front, we have given wall mount lights at each floor, we have given both stepped and slope entrance, we have used wooden false ceiling at both floors.
 
 **Plot size -** 30 Feet x 50 Feet
 
@@ -38,7 +38,6 @@ The house is of dimensions 30 feet by 50 feet which is ground, first floor, seco
 
 **Material specification -** Wooden false ceiling, glass panels, MS panels, lights.
 
-  
 **“INVEST IN US TO MAKE YOUR INVESTMENT BETTER”**
 
 Offering You With All The Solutions From Designing To The Construction Of Your Home. We Have The Best Team Of Engineers, Interior Designers, Civil Contractors, And Architects In Indore. Start Your Home Construction With Our Expertise In It.
