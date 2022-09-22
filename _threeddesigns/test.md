@@ -22,7 +22,7 @@ house_category: 1000-to-2000-sq-ft
 ---
 **FACADE ELEVATION DETAILS:**
 
-The house is of dimension 30 feet by 50 feet which is ground and first-floor tower room only. The house was designed in modern style at a budget of 1,50,000/-.The elevation contains 2-color tone British grey and red bricks, 3 inches mild steel apollo pipes, Brick pattern stones, and acrylic CNC cut work.
+The house is of dimension 30 feet by 50 feet which is ground and first-floor tower room only. The house elevation was designed in modern style at a budget of 1,50,000/-.The elevation contains 2-color tone British grey and red bricks, 3 inches mild steel apollo pipes, Brick pattern stones, and acrylic CNC cut work.
 
 **Plot size -** 30 Feet x 50 Feet
 
