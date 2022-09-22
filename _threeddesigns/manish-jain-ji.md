@@ -23,7 +23,7 @@ house_category: 1000-to-2000-sq-ft
 ---
 **FACADE ELEVATION DETAILS:**
 
-The house is of dimension 30 feet by 55 feet which is ground and first-floor tower room only. The house was designed in modern style at a budget of 3,00,000/-.The elevation contains 2 color tones British grey and shera wall, and stone cladding, projected with a concrete finish. With ambient light and a wide glass window at the front, an open sit-out area, and the main entrance with a metal gate.
+The house is of dimension 30 feet by 55 feet which is ground and first-floor tower room only. The house was designed in modern style at a budget of 2,00,000/-.The elevation contains 2 color tones British grey and shera wall, and stone cladding, projected with a concrete finish. With ambient light and a wide glass window at the front, an open sit-out area, and the main entrance with a metal gate.
 
 **Plot size -** 50 Feet x 65 Feet
 
