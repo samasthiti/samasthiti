@@ -22,7 +22,7 @@ house_category: 1000-to-2000-sq-ft
 ---
 **FACADE ELEVATION:**
 
-The house is of dimension 25 feet by 60 feet which is ground, first floor, second floor, and terrace floor having tower room only. The house was designed in modern style at a budget of 2,25,000/-.The elevation contains a balcony having a glass railing. The material used on both sides of stone cladding and Sand dust plaster, and on the other side, there is a projected planter box that is on the terrace balcony, and the house has one main entrance and as 20 feet-wide shop in the front. Gate is full height Which is made of M.S. steel.
+The house is of dimension 25 feet by 60 feet which is ground, first floor, second floor, and terrace floor having tower room only. The house elevation was designed in modern style at a budget of 2,25,000/-.The elevation contains a balcony having a glass railing. The material used on both sides of stone cladding and Sand dust plaster, and on the other side, there is a projected planter box that is on the terrace balcony, and the house has one main entrance and as 20 feet-wide shop in the front. Gate is full height Which is made of M.S. steel.
 
 **Plot size -** 25 Feet x 60 Feet
 
