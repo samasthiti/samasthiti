@@ -37,7 +37,7 @@ The house is of dimensions 25 feet by 50 feet which is ground, first floor, and 
 
 **Type of building -** Residential building
 
-**Material specification -** wooden cants, wooden panels, wooden sliding door.
+**Material specification -** wooden cants, acrylic CNC cutting panel, wooden panels, wooden sliding door.
 
 **“INVEST IN US TO MAKE YOUR INVESTMENT BETTER”**
 
