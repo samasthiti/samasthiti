@@ -23,7 +23,7 @@ house_category: 1000-to-2000-sq-ft
 ---
 **FACADE ELEVATION:**
 
-The house is of dimension 20 feet by 50 feet which is ground, first floor, and terrace floor having tower room only. The house was designed in modern style at an Economical budget of 85,000/-.The Corner elevation does not have any balcony but the two large sliding windows were given. The RCC work is used in elevation and the house has one Main gate Which is made of M.S. and a wooden panel.
+The house is of dimension 20 feet by 50 feet which is ground, first floor, and terrace floor having tower room only. The house elevation was designed in modern style at an Economical budget of 50,000/-.The Corner elevation does not have any balcony but the two large sliding windows were given. The RCC work is used in elevation and the house has one Main gate Which is made of M.S. and a wooden panel.
 
 **Plot size -** 20 Feet x 50 Feet
 
