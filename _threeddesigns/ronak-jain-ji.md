@@ -25,7 +25,7 @@ house_category: 1000-to-2000-sq-ft
 ---
 **FACADE ELEVATION:**
 
-The Rowhouse is of dimension 20 feet by 50 feet which is ground, first floor, and terrace floor having tower room only. The house was designed in modern style at a budget of 2,25,000/-.The Corner elevation contains a balcony having a glass railing. The material used on both sides of Brick cladding and Wooden tile cladding, Ms parabola on top enhances the beauty of the house and gives it a look of G+2.
+The Rowhouse is of dimension 20 feet by 50 feet which is ground, first floor, and terrace floor having tower room only. The house elevation was designed in modern style at a budget of 2,25,000/-.The Corner elevation contains a balcony having a glass railing. The material used on both sides of Brick cladding and Wooden tile cladding, Ms parabola on top enhances the beauty of the house and gives it a look of G+2.
 
 **Plot size -** 20 Feet x 50 Feet
 
