@@ -28,7 +28,7 @@ house_category: 1000-to-2000-sq-ft
 ---
 **FACADE ELEVATION DETAILS:**
 
-The house is of dimensions 20 feet by 50 feet which is ground, first floor, second floor, and tower room only. The house was designed in modern style at a budget of 2,00,000/-.The elevation contains acrylic CNC cutting the main door, dark grey textured wall tile, and peach color wall tiles, staircase portion having two sliding glass windows, with balcony on each floor, glass panels at the terrace at the front portion given with ambient light to meet aesthetic purposes.
+The house is of dimensions 20 feet by 50 feet which is ground, first floor, second floor, and tower room only. The house elevation was designed in modern style at a budget of 1,50,000/-.The elevation contains acrylic CNC cutting the main door, dark grey textured wall tile, and peach color wall tiles, staircase portion having two sliding glass windows, with balcony on each floor, glass panels at the terrace at the front portion given with ambient light to meet aesthetic purposes.
 
 **Plot size -** 20 Feet x 50 Feet
 
