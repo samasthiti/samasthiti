@@ -25,9 +25,7 @@ house_category: 1000-to-2000-sq-ft
 ---
 **FACADE ELEVATION:**
 
-The house is of dimension 30 feet by 50 feet which is ground, first floor, and terrace floor having tower room only. The house was designed in modern style at a budget of 1,50,000/-.The elevation contains a projected balcony having a glass railing with an M.S. pergola above the balcony playing with shadow, The material used in the front wall is brick cladding, and the texture of wood used in the M.S. main gate and sand plaster done in the boundary wall.
-
-**Plot size -** 30 Feet x 50 Feet
+The house is of dimension 30 feet by 50 feet which is ground, first floor, and terrace floor having tower room only. The house elevation  was designed in modern style at a budget of 1,50,000/-.The elevation contains a projected balcony having a glass railing with an M.S. pergola above the balcony playing with shadow, The material used in the front wall is brick cladding, and the texture of wood used in the M.S. main gate and sand plaster done in the boundary wall. 
 
 **Facing the plot -** West
 
