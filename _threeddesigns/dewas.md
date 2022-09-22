@@ -22,7 +22,7 @@ house_category: below-1000-sq-ft
 ---
 **FACADE ELEVATION:**
 
-The house is of dimension 20 feet by 50 feet which is ground, first floor, and terrace floor having tower room only. The house elevation was designed in modern at a budget of 1,00,000. The elevation contains Parabola, Travertine tiles, and Brown color.
+The house is of dimension 20 feet by 50 feet which is ground, first floor, and terrace floor having tower room only. The house elevation was designed in modern at a budget of 1,00,000/-. The elevation contains Parabola, Travertine tiles, and Brown color.
 
 **Plot size -** 25 Feet x 50 Feet
 
