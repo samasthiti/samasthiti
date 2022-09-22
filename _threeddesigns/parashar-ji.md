@@ -24,9 +24,9 @@ house_category: 2000-to-3000-sq-ft
 ---
 **FACADE ELEVATION DETAILS:**
 
-The house is of dimension 30 feet by 80 feet which is ground and tower room only. The house was designed in modern style at a budget of 1,00,000/-.The elevation contains 2 color tones British grey and brick pattern tile, with the main entrance with a metallic gate and projection at the front, with ambient lights given for aesthetic purposes.
+The house is of dimension 30 feet by 80 feet which is ground and tower room only. The house elevation was designed in modern style at a budget of 1,00,000/-.The elevation contains 2 color tones British grey and brick pattern tile, with the main entrance with a metallic gate and projection at the front, with ambient lights given for aesthetic purposes.
 
-**Plot size -**30 Feet x 80 Feet
+\**Plot size -**30 Feet x 80 Feet
 
 **Facing of the plot -** East
 
