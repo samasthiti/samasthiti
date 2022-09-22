@@ -26,7 +26,7 @@ house_category: 1000-to-2000-sq-ft
 ---
 **FACADE ELEVATION DETAILS:**
 
-The house is of dimensions 22 feet by 50 feet. The elevation consists of British grey, White colors, MS Rafters, Two-way lights, and a Wooden false ceiling.
+The house is of dimensions 22 feet by 50 feet. The elevation consists of British grey, White colors, MS Rafters, Two-way lights, and a Wooden false ceiling.The house elevation was designed in modern style at a budget of 1,00,000/-.
 
 **Plot size -** 22 Feet x 50 Feet
 
