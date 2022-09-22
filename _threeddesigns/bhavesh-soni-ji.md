@@ -27,7 +27,7 @@ house_category: 1000-to-2000-sq-ft
 ---
 **FACADE ELEVATION DETAILS:**
 
-The house is of dimensions 20 feet by 50 feet which is ground, first floor, second floor, and tower room only. The house was designed in modern style at a budget of 1,00,000/-.
+The house is of dimensions 20 feet by 50 feet which is ground, first floor, second floor, and tower room only. The house elevation was designed in modern style at a budget of 1,00,000/-.
 
 **Plot size -** 20 Feet x 50 Feet
 
@@ -39,7 +39,7 @@ The house is of dimensions 20 feet by 50 feet which is ground, first floor, seco
 
 **Type of building -** Residential building
 
-**Material specification -** Glass railing, Wooden false ceiling, Ambient light, and Full height window.
+**Material specification -** RCC work, white sand texture, Glass railing, Wooden false ceiling, Ambient light, and Full height window, wooden tiles.
 
 **“INVEST IN US TO MAKE YOUR INVESTMENT BETTER”**
 
