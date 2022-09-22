@@ -25,7 +25,7 @@ house_category: 1000-to-2000-sq-ft
 ---
 **FACADE ELEVATION DETAILS:**
 
-The house is of dimensions 25 feet by 50 feet which is ground, first floor, second floor, and tower room only. The house was designed in modern style at a budget of 3,00,000/-.The elevation contains wooden material with a variant of brown color, a wooden main door, an open balcony with the wooden panels placed vertically, and ambient light for aesthetic purposes, a glass section at the staircase portion.
+The house is of dimensions 25 feet by 50 feet which is ground, first floor, second floor, and tower room only. The house elevation was designed in modern style at a budget of 2,25,000/-.The elevation contains wooden material with a variant of brown color, a wooden main door, an open balcony with the wooden panels placed vertically, and ambient light for aesthetic purposes, a glass section at the staircase portion.
 
 **Plot size -** 25 Feet x 50 Feet
 
@@ -37,7 +37,7 @@ The house is of dimensions 25 feet by 50 feet which is ground, first floor, seco
 
 **Type of building -** Residential building
 
-**Material specification -** M.S. Panels, wooden sheets, glass panels.
+**Material specification -** M.S. Panels, wooden sheets, glass panels wooden pops with profile light.
 
 **“INVEST IN US TO MAKE YOUR INVESTMENT BETTER”**
 
