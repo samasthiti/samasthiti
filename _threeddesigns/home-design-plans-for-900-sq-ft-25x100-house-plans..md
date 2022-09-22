@@ -33,7 +33,7 @@ house_category: below-1000-sq-ft
 ---
 **FACADE ELEVATION DETAILS:**
 
-The house is of dimension 15 feet by 40 feet which is ground and first-floor tower room only. The house was designed in modern style at a budget of 1,00,000/-.The elevation contains champer at boundaries, a planter in front, balconies with glass railing, and a fixed glass window in front we have also used acrylic CNC sheet mount lights in front, we have given two main gates of ms panel and wood.
+The house is of dimension 15 feet by 40 feet which is ground and first-floor tower room only. The house elevation was designed in modern style at a budget of 1,00,000/-.The elevation contains champer at boundaries, a planter in front, balconies with glass railing, and a fixed glass window in front we have also used acrylic CNC sheet mount lights in front, we have given two main gates of ms panel and wood.
 
 **Plot size -** 15 Feet x 40 Feet
 
