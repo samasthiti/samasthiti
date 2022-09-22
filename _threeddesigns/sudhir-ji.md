@@ -28,7 +28,7 @@ The house is of dimension 20 feet by 60 feet which is ground, first-floor having
 
 **Facing the plot -** West
 
-**Number of floors -** 2
+**Number of floors -** 2 
 
 **Location -** Indore
 
