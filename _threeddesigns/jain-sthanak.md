@@ -1,5 +1,5 @@
 ---
-title: JAIN STHANAk
+title: JAIN STHANAK
 meta_title: 'modern house plans free download, new construction home designs. '
 description: 'modern house plans free download. new construction home designs .free
   online house plan design tool. '
