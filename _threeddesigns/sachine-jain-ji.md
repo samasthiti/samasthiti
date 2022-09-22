@@ -26,7 +26,7 @@ house_category: below-1000-sq-ft
 ---
 **FACADE ELEVATION DETAILS:**
 
-The house is of dimensions 15 feet by 50 feet which is ground, first-floor, second-floor, and tower room only. The house was designed in modern style at a budget of 1,00,000/-.
+The house is of dimensions 15 feet by 50 feet which is ground, first-floor, second-floor, and tower room only. The house elevation was designed in modern style at a budget of 1,00,000/-.
 
 **Plot size -** 15 Feet x 50 Feet
 
