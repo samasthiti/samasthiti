@@ -24,7 +24,7 @@ house_category: 1000-to-2000-sq-ft
 ---
 **FACADE ELEVATION DETAILS:**
 
-The house is of dimensions 20 feet by50 feet which is a corner plot that contains ground, first-floor second floor, and tower room only. The house was designed in modern style at a budget of 3,25,000/-. The elevation contains an acrylic CNC cut and a stepped balcony and the projected wall of size 30 feet which is tapered from the end has 1 main entrance. The main entrance has an MS gate. And the material used is concrete finished with unfinished texture and for aesthetic purposes, the ambient lights were given, and a shuttering entrance is also given on either side.
+The house is of dimensions 20 feet by50 feet which is a corner plot that contains ground, first-floor second floor, and tower room only. The house was designed in modern style at a budget of 2,25,000/-. The elevation contains an acrylic CNC cut and a stepped balcony and the projected wall of size 30 feet which is tapered from the end has 1 main entrance. The main entrance has an MS gate. And the material used is concrete finished with unfinished texture and for aesthetic purposes, the ambient lights were given, and a shuttering entrance is also given on either side.
 
 **Plot size -** 20 Feet x 50 Feet
 
