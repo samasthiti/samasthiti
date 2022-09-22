@@ -23,7 +23,7 @@ house_category: 2000-to-3000-sq-ft
 ---
 **FACADE ELEVATION DETAILS:**
 
-The house is of dimensions 40 feet by 60 feet which is ground, first floor, second floor, and tower room only. The house was designed in modern style at a budget of 1,80,000/-.
+The house is of dimensions 40 feet by 60 feet which is ground, first floor, second floor, and tower room only. The house elevation was designed in modern style at a budget of 1,80,000/-.
 
 **Facing of the plot -** East
 
@@ -33,7 +33,7 @@ The house is of dimensions 40 feet by 60 feet which is ground, first floor, seco
 
 **Type of building -** Residential building
 
-**Material specification -** Glass railing, 4 Way lights, CNC cut acrylic sheet and Parabola. 
+**Material specification -** Glass railing, 4 Way lights, CNC cut acrylic sheet and Parabola.
 
 **“INVEST IN US TO MAKE YOUR INVESTMENT BETTER”**
 
