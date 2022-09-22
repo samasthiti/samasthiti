@@ -23,7 +23,7 @@ house_category: 1000-to-2000-sq-ft
 ---
 **FACADE ELEVATION DETAILS:**
 
-The house is of dimensions 22 feet by 50 feet which is ground, first floor, second floor, and tower room only. The house was designed in modern style at a budget of 1,00,000/-.
+The house is of dimensions 22 feet by 50 feet which is ground, first floor, second floor, and tower room only. The house elevation was designed in modern style at a budget of 1,00,000/-.
 
 **Facing of the plot -** East
 
