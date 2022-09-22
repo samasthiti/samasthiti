@@ -14,17 +14,13 @@ pagetopic: new house building plans, plan 3d interior design.
 author: Samasthiti Constructions Pvt Ltd
 robots: ''
 heading: PIYUSH RATHORE JI
-banner_image: https://samasthiti-constructions.s3.ap-south-1.amazonaws.com/uploads/final
-  elevation (3).jpg
+banner_image: https://samasthiti-constructions.s3.ap-south-1.amazonaws.com/uploads/WhatsApp
+  Image 2022-09-22 at 5.00.10 AM.jpeg
 serial_number: 22
 tilephotos:
 - https://samasthiti-constructions.s3.ap-south-1.amazonaws.com/uploads/WhatsApp Image
   2022-09-16 at 4.38.51 PM.jpeg
 - https://samasthiti-constructions.s3.ap-south-1.amazonaws.com/uploads/elevation 45jpg.jpg
-- https://samasthiti-constructions.s3.ap-south-1.amazonaws.com/uploads/final elevation
-  (3).jpg
-- https://samasthiti-constructions.s3.ap-south-1.amazonaws.com/uploads/final elevation
-  (2).jpg
 house_category: 1000-to-2000-sq-ft
 
 ---
