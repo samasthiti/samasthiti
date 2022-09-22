@@ -22,7 +22,7 @@ house_category: 1000-to-2000-sq-ft
 ---
 **FACADE ELEVATION DETAILS:**
 
-The house is of dimensions 30 feet by 50 feet which is ground, first floor, second floor, third floor, fourth floor, and tower room only. The house was designed in modern style at a budget of 4,00,000/-.The elevation contains 2 color tones of British grey and red bricks, Brick pattern tile with the concrete finish, with MS panel main gate, and sliding glass windows at the front, with a projected concrete finish section for the plantation. The ground floor is embedded with the Shree Shwatambar Jain Sthanakwasi Sakal Sangh, Pravachan Hall, Bhojan Shala, Atithi Niwas, and an elevator portion given at front with glass panels on one side.
+The house is of dimensions 30 feet by 50 feet which is ground, first floor, second floor, third floor, fourth floor, and tower room only. The house was designed in modern style at a budget of 3,25,000/-.The elevation contains 2 color tones of British grey and red bricks, Brick pattern tile with the concrete finish, with MS panel main gate, and sliding glass windows at the front, with a projected concrete finish section for the plantation. The ground floor is embedded with the Shree Shwatambar Jain Sthanakwasi Sakal Sangh, Pravachan Hall, Bhojan Shala, Atithi Niwas, and an elevator portion given at front with glass panels on one side.
 
 **Plot size -** 30 Feet x 50 Feet
 
@@ -34,7 +34,7 @@ The house is of dimensions 30 feet by 50 feet which is ground, first floor, seco
 
 **Type of building -** Residential building
 
-**Material specification -** M.S. panels, glass panels, finished concrete, and Acrylic CNC cut panel
+**Material specification -** M.S. panels, glass panels, finished concrete, red bricks and Acrylic CNC cut panel
 
 **“INVEST IN US TO MAKE YOUR INVESTMENT BETTER”**
 
