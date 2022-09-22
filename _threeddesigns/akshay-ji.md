@@ -27,7 +27,7 @@ house_category: 1000-to-2000-sq-ft
 ---
 **FACADE ELEVATION DETAILS:**
 
-The house is of dimensions 30 feet by 50 feet which is ground, first floor, and tower room only. The house was designed in modern style at a budget of 2,50,000/-.The elevation contains grey textured tile work, with a balcony at the front, and the MS panel main gate, with two sliding glass windows at the front, given ambient light for aesthetic purposes.
+The house is of dimensions 30 feet by 50 feet which is ground, first floor, and tower room only. The house elevation was designed in modern style at a budget of 2,50,000/-.The elevation contains grey textured tile work, with a balcony at the front, and the MS panel main gate, with two sliding glass windows at the front, given ambient light for aesthetic purposes.
 
 **Plot size -** 30 Feet x 50 Feet
 
@@ -39,7 +39,7 @@ The house is of dimensions 30 feet by 50 feet which is ground, first floor, and 
 
 **Type of building -** Residential building
 
-**Material specification -** M.S. Panels, tiling on the wall, Wooden louvers, and Wooden textures at the boundary wall. 
+**Material specification -** M.S. Panels, tiling on the wall, Wooden louvers, and Wooden textures at the boundary wall.
 
 **“INVEST IN US TO MAKE YOUR INVESTMENT BETTER”**
 
