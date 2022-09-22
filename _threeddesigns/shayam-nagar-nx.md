@@ -22,7 +22,7 @@ house_category: below-1000-sq-ft
 ---
 **FACADE ELEVATION:**
 
-The house is of dimension 23 feet by 45 feet which is ground, first floor, and terrace floor having tower room only. The house was designed in modern style at a budget of 2,25,000/-.The Corner elevation contains a balcony having a glass railing. The material used travertine tiles and RCC work. And on the other side, there is a projected planter box that is high lighting the balcony, and the house have one main entrance of 7 feet in height. Which is made of M.S. and coated with wooden texture.
+The house is of dimension 23 feet by 45 feet which is ground, first floor, and terrace floor having tower room only. The house elevation was designed in modern style at a budget of 2,25,000/-.The Corner elevation contains a balcony having a glass railing. The material used travertine tiles and RCC work. And on the other side, there is a projected planter box that is high lighting the balcony, and the house have one main entrance of 7 feet in height. Which is made of M.S. and coated with wooden texture.
 
 **Plot size -** 23 Feet x 45 Feet
 
