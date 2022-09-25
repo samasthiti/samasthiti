@@ -41,3 +41,5 @@ fields:
   label: layout
   hidden: true
   default: constructionLayout
+pages:
+- _constructions/construction.md
