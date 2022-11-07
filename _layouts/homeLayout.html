@@ -50,7 +50,7 @@
 							{% for images in page.floor_plan %}
 							<a href="{{ "house-plans" | absolute_url}}">
 								<div class="item border border-dark">
-									<img src="{{ images.image }}" alt="">
+									<img src="{{ images.image }}" width="434 px" height="434 px" alt="">
 								</div>
 							</a>
 							{% endfor %}
@@ -69,7 +69,7 @@
 							{% for images in page.construction_plan %}
 							<a href="{{ "constructions" | absolute_url}}">
 								<div class="item border border-dark">
-									<img src="{{ images.image }}" alt="">
+									<img src="{{ images.image }}" width="434 px" height="434 px" alt="">
 								</div>
 							</a>
 							{% endfor %}
@@ -88,7 +88,7 @@
 							{% for images in page.interior_design_plan %}
 							<a href="{{ "interior-designs" | absolute_url}}">
 								<div class="item border border-dark">
-									<img src="{{ images.image }}" alt="">
+									<img src="{{ images.image }}" width="434 px" height="434 px" alt="">
 								</div>
 							</a>
 							{% endfor %}
@@ -107,7 +107,7 @@
 							{% for images in page.elevation_design_plan %}
 							<a href="{{ "real-estate-buys" | absolute_url}}">
 								<div class="item border border-dark">
-									<img src="{{ images.image }}" alt="">
+									<img src="{{ images.image }}" width="434 px" height="434 px" alt="">
 								</div>
 							</a>
 							{% endfor %}
@@ -116,8 +116,9 @@
 				</div>
 			</div>
 		</div>
-
+ 
 		<div class="container-fluid">
+			<p class="h3" style=" text-align: center; margin-top: 10px; margin-bottom: 10px;"> BLOG'S</p>
 			<!--FIRST ROW OF THE GRID-->
 			<div class="row justify-content-evenly row-col">
 				{% for imageInfo in site.posts %}
