@@ -7,9 +7,10 @@ tilephotos: []
 serial_number: 1
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Selling property can be as difficult as buying a new property. Getting the best deal requires careful attention to detail, from finding a buyer to closing the sales deal. Samasthiti Constructions can help you make this happen. To make the process easier for you, here are some things to keep in mind when selling Real estate Property.
+
+<ul>
+  <li>Evaluate the value of your property.</li>
+  <li>Hire a real estate ageCommunicate to the governing body.</li>
+  <li>Legal documentation.</li>
+</ul> 

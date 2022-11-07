@@ -609,3 +609,27 @@ div.long-card-item {
     background-color: #000;
     color: #fff;
 }
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+th {
+  text-align: left;
+  padding: 8px;
+  background-color:black;
+  color: white;
+	border: 1px solid #dddddd;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
