@@ -1,8 +1,8 @@
 ---
 layout: housePlanLayout-5000-to-6000-sq-ft
-title: House Plan 1000 to 2000 sq-ft
-heading: House Plan CONSULTANCY
-banner_image: https://samasthiticonstructions.s3.ap-south-1.amazonaws.com/uploads/ec.jpg
+title: 5000-6000 SQ.FT.
+heading: 5000-6000 SQ.FT.
+banner_image: https://samasthiti-constructions.s3.ap-south-1.amazonaws.com/uploads/house5000-6000 SQFT_page-0001.jpg
 tilephotos: []
 serial_number: 1
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit
