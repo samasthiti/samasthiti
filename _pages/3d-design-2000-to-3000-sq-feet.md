@@ -2,7 +2,7 @@
 layout: 3dDesignLayout-2000-to-3000-sq-ft
 title: House Plan 2000 to 3000 sq-ft
 heading: House Plan CONSULTANCY
-banner_image: https://samasthiticonstructions.s3.ap-south-1.amazonaws.com/uploads/ec.jpg
+banner_image: https://samasthiti-constructions.s3.ap-south-1.amazonaws.com/uploads/3d2000-3000 sqft.jpg
 tilephotos: []
 serial_number: 1
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit
