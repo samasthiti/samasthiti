@@ -7,9 +7,5 @@ tilephotos: []
 serial_number: 1
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+When it comes to designing living spaces, bungalows cannot be compared because of the spaces available and everything that characterizes them. The bungalows include a master bedroom, master bathroom, guest bedroom, kitchen, and formal Whether you're dining room, pantry, kids room, home temple, Study Room, Swimming Pool, Terrace Garden, or lawn, you've got space for everything. It becomes such a large space and can be used productively and aesthetically.
+

@@ -7,9 +7,9 @@ tilephotos: []
 serial_number: 1
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Front elevation of the house, the most important part of the house, holds great importance in the architecture of a house, making the building more appealing visually. A well planned building elevation design provides the proper sunlight, avoids the excessive noises, better air circulation and maintaining the building temperature.
+
+Therefore elevation designs require more study and understanding of components to make them look as one and whole instead of parts
+
+“Let’s put the WOW effect in your home with our team of architects, engineers, interior designers and contractors in Indore”.
+
