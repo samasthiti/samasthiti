@@ -3,7 +3,7 @@ layout: 3dDesignCategoryLayout
 title: 3D Design
 permalink: "/3d-designs"
 heading: 3D Design CONSULTANCY
-banner_image: https://samasthiticonstructions.s3.ap-south-1.amazonaws.com/uploads/ec.jpg
+banner_image: https://samasthiti-constructions.s3.ap-south-1.amazonaws.com/uploads/3d1.BANNER IMAGE.jpg
 tilephotos: []
 serial_number: 1
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit
