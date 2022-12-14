@@ -8,9 +8,4 @@ tilephotos: []
 serial_number: 1
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+A House plan is a top image of a house or any other structure. The floor plan is the first stage of home construction or any other structure construction. The architectural layout is a base of all other drawings of Structure, Facade elevation, Electrical Drawings, and Plumbing drawings they all depend on the floor plan and design after the Vastu floor plan is finalized mutually by the client and architect. It is very important for the architect to not just consider the architect of the home but also take Columns, Beams, Plumbing, Furniture, and Facade elevation.  
